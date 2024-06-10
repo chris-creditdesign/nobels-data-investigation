@@ -1,0 +1,817 @@
+name,birth_city,birth_country,birth_continent,birth_lat,birth_lon,affil_city,affil_country,affil_continent,affil_lat,affil_lon,distance_km
+A. Michael Spence,"Montclair, NJ",USA,North America,40.825930,-74.209030,"Stanford, CA",USA,North America,37.424734,-122.163858,4112.2246167140565
+Aage N. Bohr,Copenhagen,Denmark,Europe,55.678127,12.572532,Copenhagen,Denmark,Europe,55.678127,12.572532,0.0
+Aaron Ciechanover,Haifa,British Protectorate of Palestine,Asia,32.794421,34.990340,Haifa,Israel,Asia,32.794421,34.990340,0.0
+Aaron Klug,Zelvas,Lithuania,Europe,53.148256,24.816515,Cambridge,United Kingdom,Europe,52.194605,0.135092,1664.6552633499232
+Abdus Salam,Jhang Maghiāna,India,Asia,31.268056,72.318056,Trieste,Italy,Europe,45.649433,13.776623,5228.10488209837
+Abdus Salam,Jhang Maghiāna,India,Asia,31.268056,72.318056,London,United Kingdom,Europe,51.510235,-0.120852,6181.135920476722
+Abhijit Banerjee,Mumbai,India,Asia,19.075833,72.877500,"Cambridge, MA",USA,North America,42.374024,-71.107306,12266.841770692514
+Ada E. Yonath,Jerusalem,British Mandate of Palestine,Asia,31.767983,35.213809,Rehovot,Israel,Asia,31.892773,34.811272,40.5412955420742
+Adam G. Riess,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Baltimore, MD",USA,North America,39.291586,-76.625305,56.25343826459609
+Adam G. Riess,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Baltimore, MD",USA,North America,39.291586,-76.625305,56.25343826459609
+Adolf Butenandt,Bremerhaven-Lehe,Germany,Europe,53.550000,8.583333,Berlin-Dahlem,Germany,Europe,52.453739,13.293130,338.82757105347184
+Adolf Butenandt,Bremerhaven-Lehe,Germany,Europe,53.550000,8.583333,Berlin,Germany,Europe,52.522265,13.406852,343.10332136503774
+Adolf von Baeyer,Berlin,Prussia,Europe,52.522265,13.406852,Munich,Germany,Europe,48.134703,11.581995,505.0088720886128
+Adolf Windaus,Berlin,Germany,Europe,52.522265,13.406852,Göttingen,Germany,Europe,51.539385,9.913113,263.5041315029224
+Ahmed Zewail,Damanhur,Egypt,Africa,31.050000,30.466667,"Pasadena, CA",USA,North America,34.150071,-118.142111,12075.811487660487
+Akira Suzuki,Mukawa,Japan,Asia,42.574750,141.926750,Sapporo,Japan,Asia,43.062096,141.354376,71.56854440722925
+Akira Yoshino,Suita,Japan,Asia,34.764885,135.517349,Tokyo,Japan,Asia,35.680183,139.769373,400.16477232914855
+Akira Yoshino,Suita,Japan,Asia,34.764885,135.517349,Nagoya,Japan,Asia,35.180679,136.918749,136.03163660205678
+Alain Aspect,Agen,France,Europe,44.203056,0.618611,Paris,France,Europe,48.860093,2.355954,534.5265107077812
+Alain Aspect,Agen,France,Europe,44.203056,0.618611,Palaiseau,France,Europe,48.714509,2.245748,516.8030425846626
+Alan Heeger,"Sioux City, IA",USA,North America,42.496681,-96.405876,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,2212.8329864257485
+Alan Hodgkin,Banbury,United Kingdom,Europe,52.061389,-1.339167,Cambridge,United Kingdom,Europe,52.194605,0.135092,102.04065231604699
+Alan MacDiarmid,Masterton,New Zealand,Oceania,-40.966667,175.650000,"Philadelphia, PA",USA,North America,39.957132,-75.174342,14186.905546454338
+Albert A. Michelson,Strelno,Prussia,Europe,52.629444,18.170000,"Chicago, IL",USA,North America,41.876228,-87.638416,7354.937424949452
+Albert Claude,Longlier,Belgium,Europe,,,Louvain,Belgium,Europe,50.883029,4.713949,
+Albert Einstein,Ulm,Germany,Europe,48.401072,9.987585,Berlin,Germany,Europe,52.522265,13.406852,518.6137312155355
+Albert Fert,Carcassonne,France,Europe,43.215833,2.351389,Orsay,France,Europe,48.698056,2.187500,609.4836003069795
+Albert Fert,Carcassonne,France,Europe,43.215833,2.351389,Orsay,France,Europe,48.698056,2.187500,609.4836003069795
+Albert Szent-Györgyi,Budapest,Austria-Hungary,Europe,47.497799,19.038285,Szeged,Hungary,Europe,46.252930,20.141511,161.93701832942818
+Albrecht Kossel,Rostock,Mecklenburg,Europe,54.083333,12.133333,Heidelberg,Germany,Europe,49.399220,8.680522,572.9732374381938
+Aleksandr M. Prokhorov,Atherton,Australia,Oceania,-17.265556,145.474167,Moscow,USSR,Europe,55.741387,37.618892,12693.457894318943
+Aleksey Yekimov ,Leningrad,USSR,Europe,59.956651,30.333547,"New York, NY",USA,North America,40.715758,-74.011300,6904.7109913507975
+Alexei Abrikosov,Moscow,USSR,Europe,55.741387,37.618892,"Argonne, IL",USA,North America,,,
+Alexis Carrel,Sainte-Foy-lès-Lyon,France,Europe,45.733611,4.802500,"New York, NY",USA,North America,40.715758,-74.011300,6161.6981890501875
+Alfred D. Hershey,"Owosso, MI",USA,North America,42.997778,-84.176667,"Long Island, New York, NY",USA,North America,40.789442,-73.135753,947.7337253960266
+Alfred G. Gilman,"New Haven, CT",USA,North America,41.307802,-72.932531,"Dallas, TX",USA,North America,32.779831,-96.801627,2314.7516092636542
+Alfred Kastler,Guebwiller,Germany,Europe,47.907500,7.210278,Paris,France,Europe,48.860093,2.355954,374.7621023998658
+Alfred Werner,Mulhouse,France,Europe,47.750960,7.335412,Zurich,Switzerland,Europe,47.376909,8.541697,99.84694038117412
+Allan M. Cormack,Johannesburg,South Africa,Africa,-26.205387,28.045515,"Medford, MA",USA,North America,42.418478,-71.103530,12643.643479596054
+Allvar Gullstrand,Landskrona,Sweden,Europe,55.879416,12.837004,Uppsala,Sweden,Europe,59.858503,17.638748,526.5905274928313
+Alphonse Laveran,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Alvin E. Roth,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Alvin E. Roth,"New York, NY",USA,North America,40.715758,-74.011300,"Boston, MA",USA,North America,42.360420,-71.056810,306.8059225329032
+Amartya Sen,Santiniketan,India,Asia,23.680000,87.680000,Cambridge,United Kingdom,Europe,52.194605,0.135092,7800.85498160868
+André F. Cournand,Paris,France,Europe,48.860093,2.355954,"New York, NY",USA,North America,40.715758,-74.011300,5853.213225207662
+Andre Geim,Sochi,Russia,Europe,43.585484,39.723110,Manchester,United Kingdom,Europe,53.478756,-2.245094,3233.915740713536
+André Lwoff,Ainay-le-Château,France,Europe,46.711389,2.692500,Paris,France,Europe,48.860093,2.355954,240.2327247475599
+Andrea Ghez,"New York, NY",USA,North America,40.715758,-74.011300,"Los Angeles, CA",USA,North America,34.062144,-118.225001,3941.9280489477724
+Andrew Huxley,Hampstead,United Kingdom,Europe,51.554167,-0.174444,London,United Kingdom,Europe,51.510235,-0.120852,6.141690599247232
+Andrew V. Schally,Wilno,Poland,Europe,54.687046,25.282911,"New Orleans, LA",USA,North America,29.962050,-90.070258,8788.647112200155
+Andrew Z. Fire,"Stanford, CA",USA,North America,37.424734,-122.163858,"Stanford, CA",USA,North America,37.424734,-122.163858,0.0
+Angus Deaton,Edinburgh,Scotland,Europe,55.955709,-3.207405,"Princeton, NJ",USA,North America,40.359783,-74.668268,5324.746994654824
+Anne L’Huillier,Paris,France,Europe,48.860093,2.355954,Lund,Sweden,Europe,55.708313,13.199164,1059.8432108217478
+Anthony J. Leggett,London,United Kingdom,Europe,51.510235,-0.120852,"Urbana, IL",USA,North America,40.110863,-88.206265,6539.747625939558
+Anton Zeilinger,Ried im Innkreis,Austria,Europe,48.210000,13.489444,Vienna,Austria,Europe,48.207646,16.372793,214.28874087839608
+Anton Zeilinger,Ried im Innkreis,Austria,Europe,48.210000,13.489444,Vienna,Austria,Europe,48.207646,16.372793,214.28874087839608
+Antony Hewish,Fowey,United Kingdom,Europe,50.335777,-4.636595,Cambridge,United Kingdom,Europe,52.194605,0.135092,391.9101290687009
+Archer J.P. Martin,London,United Kingdom,Europe,51.510235,-0.120852,London,United Kingdom,Europe,51.510235,-0.120852,0.0
+Archibald V. Hill,Bristol,United Kingdom,Europe,51.455112,-2.584545,London,United Kingdom,Europe,51.510235,-0.120852,171.24672059467994
+Ardem Patapoutian,Beirut,Lebanon,Asia,33.886944,35.513056,"La Jolla, CA",USA,North America,32.832367,-117.265117,12091.684391039951
+Ardem Patapoutian,Beirut,Lebanon,Asia,33.886944,35.513056,,USA,North America,,,
+Arieh Warshel,Kibbutz Sde-Nahum,British Mandate of Palestine,Asia,32.529995,35.479515,"Los Angeles, CA",USA,North America,34.062144,-118.225001,12138.884726071079
+Arne Tiselius,Stockholm,Sweden,Europe,59.325371,18.070794,Uppsala,Sweden,Europe,59.858503,17.638748,64.21175267774987
+Arno Penzias,Munich,Germany,Europe,48.134703,11.581995,"Holmdel, NJ",USA,North America,40.347720,-74.177040,6542.764737943501
+Arthur Ashkin,"New York, NY",USA,North America,40.715758,-74.011300,"Holmdel, NJ",USA,North America,40.347720,-74.177040,43.21401173159144
+Arthur B. McDonald,"Sydney, Nova Scotia",Canada,North America,46.138927,-60.193233,Kingston,Canada,North America,44.233333,-76.500000,1296.556549831029
+Arthur H. Compton,"Wooster, OH",USA,North America,40.809194,-81.937194,"Chicago, IL",USA,North America,41.876228,-87.638416,491.5694804084519
+Arthur Harden,Manchester,United Kingdom,Europe,53.478756,-2.245094,London,United Kingdom,Europe,51.510235,-0.120852,262.2682517733755
+Arthur Kornberg,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Stanford, CA",USA,North America,37.424734,-122.163858,4136.870614025645
+Arthur L. Schawlow,"Mount Vernon, NY",USA,North America,40.914167,-73.830556,"Stanford, CA",USA,North America,37.424734,-122.163858,4141.723141178905
+Artturi Virtanen,Helsinki,Russian Empire,Europe,60.167874,24.958234,Helsinki,Finland,Europe,60.167874,24.958234,0.0
+Arvid Carlsson,Uppsala,Sweden,Europe,59.858503,17.638748,Gothenburg,Sweden,Europe,57.707168,12.003677,404.3146821731906
+August Krogh,Grenå,Denmark,Europe,56.413333,10.875833,Copenhagen,Denmark,Europe,55.678127,12.572532,133.7144185203594
+Avram Hershko,Karcag,Hungary,Europe,47.315474,20.918238,Haifa,Israel,Asia,32.794421,34.990340,2003.550781039992
+Aziz Sancar,Savur,Turkey,Asia,37.537500,40.889167,"Chapel Hill, NC",USA,North America,35.912309,-79.055421,9794.788726085952
+Barbara McClintock,"Hartford, CT",USA,North America,41.763333,-72.685000,"Cold Spring Harbor, NY",USA,North America,40.871483,-73.457548,118.2988217488067
+Barry C. Barish,"Omaha, NE",USA,North America,41.258611,-95.937500,,,,,,
+Barry C. Barish,"Omaha, NE",USA,North America,41.258611,-95.937500,"Pasadena, CA",USA,North America,34.150071,-118.142111,2103.509611310731
+Barry J. Marshall,Kalgoorlie,Australia,Oceania,-30.787453,121.459778,Nedlands,Australia,Oceania,-31.978899,115.805738,553.722831361001
+Barry J. Marshall,Kalgoorlie,Australia,Oceania,-30.787453,121.459778,Perth,Australia,Oceania,-31.951120,115.858506,548.1954414299606
+Baruch S. Blumberg,"New York, NY",USA,North America,40.715758,-74.011300,"Philadelphia, PA",USA,North America,39.957132,-75.174342,129.85543865404554
+Baruj Benacerraf,Caracas,Venezuela,South America,10.485229,-66.905482,"Boston, MA",USA,North America,42.360420,-71.056810,3555.2396197221838
+Ben Bernanke,"Augusta, GA",USA,North America,33.470000,-81.975000,"Washington, D.C.",USA,North America,38.899065,-77.036523,748.2166161375028
+Ben R. Mottelson,"Chicago, IL",USA,North America,41.876228,-87.638416,Copenhagen,Denmark,Europe,55.678127,12.572532,6859.910331950831
+Bengt Holmström,Helsinki,Finland,Europe,60.167874,24.958234,"Cambridge, MA",USA,North America,42.374024,-71.107306,6347.146185409088
+Bengt I. Samuelsson,Halmstad,Sweden,Europe,56.673985,12.857483,Stockholm,Sweden,Europe,59.325371,18.070794,426.67013734409767
+Benjamin List,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,Mülheim an der Ruhr,Germany,Europe,51.417669,6.885180,193.56467617938299
+Bernard L. Feringa,Barger-Compascuum,the Netherlands,Europe,52.754791,7.042117,Groningen,the Netherlands,Europe,53.218593,6.566722,60.69051443566475
+Bernardo Houssay,Buenos Aires,Argentina,South America,-34.603443,-58.396729,Buenos Aires,Argentina,South America,-34.603443,-58.396729,0.0
+Bert Sakmann,Stuttgart,Germany,Europe,48.775924,9.182014,Heidelberg,Germany,Europe,49.399220,8.680522,78.40071423197305
+Bertil Ohlin,Klippan,Sweden,Europe,56.134611,13.147400,Stockholm,Sweden,Europe,59.325371,18.070794,460.53649229496847
+Bertram N. Brockhouse,"Lethbridge, Alberta",Canada,North America,49.694167,-112.832778,"Hamilton, Ontario",Canada,North America,43.253336,-79.874129,2607.0461183095636
+Brian D. Josephson,Cardiff,United Kingdom,Europe,51.484043,-3.169346,Cambridge,United Kingdom,Europe,52.194605,0.135092,241.05919806182914
+Brian Kobilka,"Little Falls, MN",USA,North America,45.976357,-94.362503,"Stanford, CA",USA,North America,37.424734,-122.163858,2485.294764034836
+Brian P. Schmidt,"Missoula, MT",USA,North America,46.870106,-113.995270,Weston Creek,Australia,Oceania,-35.342586,149.055027,13253.647249334483
+Bruce A. Beutler,"Chicago, IL",USA,North America,41.876228,-87.638416,"Dallas, TX",USA,North America,32.779831,-96.801627,1293.9899088499524
+Bruce A. Beutler,"Chicago, IL",USA,North America,41.876228,-87.638416,"La Jolla, CA",USA,North America,32.832367,-117.265117,2792.932837752445
+Bruce Merrifield,"Fort Worth, TX",USA,North America,32.756389,-97.332500,"New York, NY",USA,North America,40.715758,-74.011300,2253.618045206381
+Burton Richter,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Stanford, CA",USA,North America,37.424734,-122.163858,4136.870614025645
+C.T.R. Wilson,Glencorse,Scotland,Europe,55.850833,-3.204167,Cambridge,United Kingdom,Europe,52.194605,0.135092,461.94614760868774
+Camillo Golgi,Corteno,Italy,Europe,46.166944,10.244444,Pavia,Italy,Europe,45.184853,9.154865,138.27804919094348
+Carl Bosch,Cologne,Germany,Europe,50.938552,6.957702,Heidelberg,Germany,Europe,49.399220,8.680522,210.86019452556033
+Carl Bosch,Cologne,Germany,Europe,50.938552,6.957702,Heidelberg,Germany,Europe,49.399220,8.680522,210.86019452556033
+Carl Cori,Prague,Austria-Hungary,Europe,50.075070,14.429890,"St. Louis, MO",USA,North America,38.628133,-90.212222,7736.032954167626
+Carl D. Anderson,"New York, NY",USA,North America,40.715758,-74.011300,"Pasadena, CA",USA,North America,34.150071,-118.142111,3930.9770780869117
+Carl Wieman,"Corvallis, OR",USA,North America,44.564568,-123.262047,"Boulder, CO",USA,North America,40.014316,-105.269847,1563.6957031450586
+Carlo Rubbia,Gorizia,Italy,Europe,45.942524,13.618705,Geneva,Switzerland,Europe,46.203397,6.145957,578.6146184870769
+Carol W. Greider,"San Diego, CA",USA,North America,32.730500,-117.166696,"Baltimore, MD",USA,North America,39.291586,-76.625305,3694.8638406779146
+Carolyn Bertozzi,"Boston, MA",USA,North America,42.360420,-71.056810,"Stanford, CA",USA,North America,37.424734,-122.163858,4339.31046121854
+Carolyn Bertozzi,"Boston, MA",USA,North America,42.360420,-71.056810,,USA,North America,,,
+Cecil Powell,Tonbridge,United Kingdom,Europe,51.188953,0.273588,Bristol,United Kingdom,Europe,51.455112,-2.584545,201.41719586317157
+César Milstein,Bahia Blanca,Argentina,South America,-38.716667,-62.266667,Cambridge,United Kingdom,Europe,52.194605,0.135092,11740.193886597472
+Charles B. Huggins,"Halifax, Nova Scotia",Canada,North America,44.647778,-63.571389,"Chicago, IL",USA,North America,41.876228,-87.638416,1970.7884330269703
+Charles Edouard Guillaume,Fleurier,Switzerland,Europe,46.900000,6.583306,Sèvres,France,Europe,48.821281,2.209692,390.71548729787406
+Charles Glover Barkla,Widnes,United Kingdom,Europe,53.363056,-2.728056,Edinburgh,United Kingdom,Europe,55.955709,-3.207405,290.2580249653073
+Charles H. Townes,"Greenville, SC",USA,North America,34.844444,-82.385556,"Cambridge, MA",USA,North America,42.374024,-71.107306,1287.77741655233
+Charles J. Pedersen,Pusan,Korea,Asia,35.162010,129.047056,"Wilmington, DE",USA,North America,39.744130,-75.548713,11336.383281372408
+Charles K. Kao,Shanghai,China,Asia,31.234410,121.490343,Harlow,United Kingdom,Europe,51.783333,0.116667,9184.672689964467
+Charles K. Kao,Shanghai,China,Asia,31.234410,121.490343,Hong Kong,China,Asia,22.396428,114.109497,1222.8456034022686
+Charles M. Rice,"Sacramento, CA",USA,North America,38.581020,-121.493935,"New York, NY",USA,North America,40.715758,-74.011300,4032.3832819996765
+Charles Nicolle,Rouen,France,Europe,49.443056,1.102500,Tunis,Tunisia,Africa,36.810714,10.181034,1583.2466163374074
+Charles Richet,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Chen Ning Yang,"Hofei, Anhwei",China,Asia,31.822809,117.221802,"Princeton, NJ",USA,North America,40.359783,-74.668268,11919.47978374107
+Christiaan Eijkman,Nijkerk,the Netherlands,Europe,52.090702,5.121563,Utrecht,the Netherlands,Europe,52.090276,5.120942,0.0637057946421282
+Christian Anfinsen,"Monessen, PA",USA,North America,40.154194,-79.882806,"Bethesda, MD",USA,North America,38.984918,-77.093308,272.57352291184867
+Christian de Duve,Thames Ditton,United Kingdom,Europe,51.394806,-0.341306,"New York, NY",USA,North America,40.715758,-74.011300,5575.234868292765
+Christian de Duve,Thames Ditton,United Kingdom,Europe,51.394806,-0.341306,Louvain,Belgium,Europe,50.883029,4.713949,358.2830337190798
+Christiane Nüsslein-Volhard,Magdeburg,Germany,Europe,52.131588,11.639961,Tübingen,Germany,Europe,48.521356,9.057960,441.6020773497611
+Christopher A. Pissarides,Nicosia,Cyprus,Europe,35.175808,33.368561,London,United Kingdom,Europe,51.510235,-0.120852,3222.2558547843546
+Christopher A. Sims,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Princeton, NJ",USA,North America,40.359783,-74.668268,260.0643726614329
+Claude Cohen-Tannoudji,Constantine,French Algeria,Africa,36.357624,6.638807,Paris,France,Europe,48.860093,2.355954,1432.0000084823814
+Claude Cohen-Tannoudji,Constantine,French Algeria,Africa,36.357624,6.638807,Paris,France,Europe,48.860093,2.355954,1432.0000084823814
+Claudia Goldin,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Clifford G. Shull,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,"Cambridge, MA",USA,North America,42.374024,-71.107306,774.2323236016905
+Clinton Davisson,"Bloomington, IL",USA,North America,40.484167,-88.993611,"New York, NY",USA,North America,40.715758,-74.011300,1266.8526118192947
+Clive W.J. Granger,Swansea,United Kingdom,Europe,51.616667,-3.950000,"San Diego, CA",USA,North America,32.730500,-117.166696,8627.98559706208
+Corneille Heymans,Ghent,Belgium,Europe,51.046990,3.735154,Ghent,Belgium,Europe,51.046990,3.735154,0.0
+Craig C. Mello,"New Haven, CT",USA,North America,41.307802,-72.932531,"Worcester, MA",USA,North America,42.262587,-71.803964,141.58636294383575
+D. Carleton Gajdusek,"Yonkers, NY",USA,North America,40.941389,-73.864444,"Bethesda, MD",USA,North America,38.984918,-77.093308,351.0921063860382
+Dale T. Mortensen,"Enterprise, OR",USA,North America,45.424167,-117.276944,"Evanston, IL",USA,North America,42.045791,-87.686963,2399.262432602257
+Dale T. Mortensen,"Enterprise, OR",USA,North America,45.424167,-117.276944,Aarhus,Denmark,Europe,56.157699,10.210669,7727.0772884313965
+Dan Shechtman,Tel Aviv,British Mandate of Palestine,Asia,32.085996,34.781915,Haifa,Israel,Asia,32.794421,34.990340,80.9685044315668
+Daniel Bovet,Neuchâtel,Switzerland,Europe,46.990140,6.929775,Rome,Italy,Europe,41.902288,12.506464,718.4174082365765
+Daniel C. Tsui,Henan,China,Asia,33.900000,113.500000,"Princeton, NJ",USA,North America,40.359783,-74.668268,11739.433984038165
+Daniel Kahneman,Tel Aviv,British Mandate of Palestine,Asia,32.085996,34.781915,"Princeton, NJ",USA,North America,40.359783,-74.668268,9203.297611793638
+Daniel L. McFadden,"Raleigh, NC",USA,North America,35.780399,-78.639099,"Berkeley, CA",USA,North America,37.871790,-122.274715,3864.2908405177245
+Daniel Nathans,"Wilmington, DE",USA,North America,39.744130,-75.548713,"Baltimore, MD",USA,North America,39.291586,-76.625305,105.33200568232002
+David Baltimore,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+David Card,Guelph,Canada,North America,43.546051,-80.249329,"Berkeley, CA",USA,North America,37.871790,-122.274715,3567.8390947028097
+David H. Hubel,"Windsor, ON",Canada,North America,42.296495,-83.025543,"Boston, MA",USA,North America,42.360420,-71.056810,985.7131544475471
+David J. Gross,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,3812.0901123052404
+David J. Thouless,Bearsden,United Kingdom,Europe,55.919238,-4.333202,"Seattle, WA",USA,North America,47.611072,-122.355118,7167.844219201796
+David J. Wineland,"Milwaukee, WI",USA,North America,43.050000,-87.950000,"Boulder, CO",USA,North America,40.014316,-105.269847,1481.305488081107
+David J. Wineland,"Milwaukee, WI",USA,North America,43.050000,-87.950000,"Boulder, CO",USA,North America,40.014316,-105.269847,1481.305488081107
+David Julius,"New York, NY",USA,North America,40.715758,-74.011300,"San Francisco, CA",USA,North America,37.774498,-122.429706,4139.50846779088
+David M. Lee,"Rye, NY",USA,North America,40.980820,-73.684296,"Ithaca, NY",USA,North America,42.444089,-76.500950,285.2125643791656
+David W.C. MacMillan,Bellshill,United Kingdom,Europe,55.820556,-4.028333,"Princeton, NJ",USA,North America,40.359783,-74.668268,5277.826176195005
+Dennis Gabor,Budapest,Hungary,Europe,47.497799,19.038285,London,United Kingdom,Europe,51.510235,-0.120852,1452.740553826546
+Derek Barton,Gravesend,United Kingdom,Europe,51.441667,0.368611,London,United Kingdom,Europe,51.510235,-0.120852,34.85154897252292
+Dickinson W. Richards,"Orange, NJ",USA,North America,40.768056,-74.236111,"New York, NY",USA,North America,40.715758,-74.011300,19.856395520332644
+Didier Queloz,Geneva,Switzerland,Europe,46.203397,6.145957,Geneva,Switzerland,Europe,46.203397,6.145957,0.0
+Didier Queloz,Geneva,Switzerland,Europe,46.203397,6.145957,Cambridge,United Kingdom,Europe,52.194605,0.135092,796.7960217091245
+Donald A. Glaser,"Cleveland, OH",USA,North America,41.496386,-81.710675,"Berkeley, CA",USA,North America,37.871790,-122.274715,3470.9835385796064
+Donald J. Cram,"Chester, VT",USA,North America,43.288056,-72.615000,"Los Angeles, CA",USA,North America,34.062144,-118.225001,4045.650594001318
+Donna Strickland,Guelph,Canada,North America,43.546051,-80.249329,Waterloo,Canada,North America,43.466667,-80.516667,23.348980171131313
+Dorothy Crowfoot Hodgkin,Cairo,Egypt,Africa,30.044388,31.235725,Oxford,United Kingdom,Europe,51.753363,-1.260979,3595.636124314591
+Douglas D. Osheroff,"Aberdeen, WA",USA,North America,46.975372,-123.815720,"Stanford, CA",USA,North America,37.424734,-122.163858,1069.5266093511548
+Douglas Diamond,"Chicago, IL",USA,North America,41.876228,-87.638416,"Chicago, IL",USA,North America,41.876228,-87.638416,0.0
+Douglass C. North,"Cambridge, MA",USA,North America,42.374024,-71.107306,"St. Louis, MO",USA,North America,38.628133,-90.212222,1668.0448563788625
+Drew Weissman,"Lexington, MA",USA,North America,42.447317,-71.224500,"Philadelphia, PA",USA,North America,39.957132,-75.174342,431.47199642898687
+Dudley R. Herschbach,"San José, CA",USA,North America,37.336189,-121.890579,"Cambridge, MA",USA,North America,42.374024,-71.107306,4316.755918717933
+E. Donnall Thomas,"Mart, TX",USA,North America,31.542500,-96.831111,"Seattle, WA",USA,North America,47.611072,-122.355118,2804.05607114308
+E. M. Purcell,"Taylorville, IL",USA,North America,39.540833,-89.288056,"Cambridge, MA",USA,North America,42.374024,-71.107306,1559.4116102614714
+"Earl W. Sutherland, Jr.","Burlingame, KS",USA,North America,38.750833,-95.835833,"Nashville, TN",USA,North America,36.158474,-86.756442,852.8319786026841
+Edgar Adrian,London,United Kingdom,Europe,51.510235,-0.120852,Cambridge,United Kingdom,Europe,52.194605,0.135092,78.16149176892779
+Edmond H. Fischer,Shanghai,China,Asia,31.234410,121.490343,"Seattle, WA",USA,North America,47.611072,-122.355118,9204.519692176524
+Edmund S. Phelps,"Evanston, IL",USA,North America,42.045791,-87.686963,"New York, NY",USA,North America,40.715758,-74.011300,1152.1894552525596
+Eduard Buchner,Munich,Bavaria,Europe,48.134703,11.581995,Berlin,Germany,Europe,52.522265,13.406852,505.0088720886128
+Edvard I. Moser,Ålesund,Norway,Europe,62.471239,6.154239,Trondheim,Norway,Europe,63.430515,10.395053,240.28453664201308
+Edward A. Doisy,"Hume, IL",USA,North America,39.796694,-87.868611,"St. Louis, MO",USA,North America,38.628133,-90.212222,240.40385715040983
+Edward B. Lewis,"Wilkes-Barre, PA",USA,North America,41.244444,-75.878056,"Pasadena, CA",USA,North America,34.150071,-118.142111,3771.1199176908344
+Edward C. Kendall,"South Norwalk, CT",USA,North America,41.093611,-73.418611,"Rochester, MN",USA,North America,44.013985,-92.484608,1595.2726903921623
+Edward C. Prescott,"Glens Falls, NY",USA,North America,43.312222,-73.648333,"Tempe, AZ",USA,North America,33.426418,-111.939193,3486.6937023036435
+Edward C. Prescott,"Glens Falls, NY",USA,North America,43.312222,-73.648333,"Minneapolis, MN",USA,North America,44.978196,-93.266630,1576.619531381272
+Edward Tatum,"Boulder, CO",USA,North America,40.014316,-105.269847,"New York, NY",USA,North America,40.715758,-74.011300,2642.083645176331
+Edward V. Appleton,Bradford,United Kingdom,Europe,53.794000,-1.751000,London,United Kingdom,Europe,51.510235,-0.120852,277.0302349946489
+Edwin G. Krebs,"Lansing, IA",USA,North America,43.361389,-91.223333,"Seattle, WA",USA,North America,47.611072,-122.355118,2461.805973906027
+Edwin M. McMillan,"Redondo Beach, CA",USA,North America,33.856389,-118.376944,"Berkeley, CA",USA,North America,37.871790,-122.274715,567.7029967014023
+Egas Moniz,Avanca,Portugal,Europe,40.806589,-8.572261,Lisbon,Portugal,Europe,38.722625,-9.144632,236.52173088046973
+Egas Moniz,Avanca,Portugal,Europe,40.806589,-8.572261,Lisbon,Portugal,Europe,38.722625,-9.144632,236.52173088046973
+Ei-ichi Negishi,Changchun,China,Asia,43.900000,125.200000,"West Lafayette, IN",USA,North America,40.425629,-86.907457,10128.074675277892
+Elias James Corey,"Methuen, MA",USA,North America,42.726200,-71.190895,"Cambridge, MA",USA,North America,42.374024,-71.107306,39.71895133523693
+Elinor Ostrom,"Los Angeles, CA",USA,North America,34.062144,-118.225001,"Bloomington, IN",USA,North America,39.165500,-86.526591,2876.417400453222
+Elinor Ostrom,"Los Angeles, CA",USA,North America,34.062144,-118.225001,"Tempe, AZ",USA,North America,33.426418,-111.939193,586.6036505685663
+Elizabeth H. Blackburn,"Hobart, Tasmania",Australia,Oceania,-42.882746,147.326068,"San Francisco, CA",USA,North America,37.774498,-122.429706,12748.822798498322
+Emil Fischer,Euskirchen,Prussia,Europe,50.661278,6.787256,Berlin,Germany,Europe,52.522265,13.406852,503.0571085553749
+Emil von Behring,Hansdorf,Prussia,Europe,53.582660,19.656639,Marburg,Germany,Europe,50.803393,8.766153,805.3222743358114
+Emilio Segrè,Tivoli,Italy,Europe,41.959693,12.801692,"Berkeley, CA",USA,North America,37.871790,-122.274715,10064.234625459105
+Emmanuelle Charpentier,Juvisy-sur-Orge,France,Europe,48.688333,2.377500,Berlin,Germany,Europe,52.522265,13.406852,888.3425547670638
+Enrico Fermi,Rome,Italy,Europe,41.902288,12.506464,Rome,Italy,Europe,41.902288,12.506464,0.0
+Eric Betzig,"Ann Arbor, MI",USA,North America,42.281061,-83.745758,"Ashburn, VA",USA,North America,39.043757,-77.487442,639.495051357895
+Eric Cornell,"Palo Alto, CA",USA,North America,37.444328,-122.159843,"Boulder, CO",USA,North America,40.014316,-105.269847,1493.7224821158998
+Eric F. Wieschaus,"South Bend, IN",USA,North America,41.683380,-86.250008,"Princeton, NJ",USA,North America,40.359783,-74.668268,984.3636623381377
+Eric Kandel,Vienna,Austria,Europe,48.207646,16.372793,"New York, NY",USA,North America,40.715758,-74.011300,6814.701189570971
+Eric S. Maskin,"New York, NY",USA,North America,40.715758,-74.011300,"Princeton, NJ",USA,North America,40.359783,-74.668268,68.26696835395157
+Ernest Lawrence,"Canton, SD",USA,North America,43.302222,-96.590833,"Berkeley, CA",USA,North America,37.871790,-122.274715,2246.392365587736
+Ernest Rutherford,Nelson,New Zealand,Oceania,-41.298971,173.243545,Manchester,United Kingdom,Europe,53.478756,-2.245094,18609.219022217505
+Ernest T.S. Walton,Dungarvan,Ireland,Europe,52.084500,-7.639694,Dublin,Ireland,Europe,53.351676,-6.261504,168.98275234241893
+Ernst B. Chain,Berlin,Germany,Europe,52.522265,13.406852,Oxford,United Kingdom,Europe,51.753363,-1.260979,1006.1476517318197
+Ernst Otto Fischer,Munich,Germany,Europe,48.134703,11.581995,Munich,Germany,Europe,48.134703,11.581995,0.0
+Ernst Ruska,Heidelberg,Germany,Europe,49.399220,8.680522,Berlin,Germany,Europe,52.522265,13.406852,480.3960923690491
+Erwin Neher,Landsberg,Germany,Europe,48.051498,10.873773,Göttingen,Germany,Europe,51.539385,9.913113,394.04836507085054
+Erwin Schrödinger,Vienna,Austria,Europe,48.207646,16.372793,Berlin,Germany,Europe,52.522265,13.406852,524.1739421493753
+Esther Duflo,Paris,France,Europe,48.860093,2.355954,"Cambridge, MA",USA,North America,42.374024,-71.107306,5549.066387908282
+Eugene F. Fama,"Boston, MA",USA,North America,42.360420,-71.056810,"Chicago, IL",USA,North America,41.876228,-87.638416,1370.1311525034284
+Eugene Wigner,Budapest,Austria-Hungary,Europe,47.497799,19.038285,"Princeton, NJ",USA,North America,40.359783,-74.668268,7094.270866119518
+F. Duncan M. Haldane,London,United Kingdom,Europe,51.510235,-0.120852,"Princeton, NJ",USA,North America,40.359783,-74.668268,5653.869349215553
+F. Sherwood Rowland,"Delaware, OH",USA,North America,40.298889,-83.071944,"Irvine, CA",USA,North America,33.685447,-117.826826,3158.12758957508
+Felix Bloch,Zurich,Switzerland,Europe,47.376909,8.541697,"Stanford, CA",USA,North America,37.424734,-122.163858,9415.499997152772
+Feodor Lynen,Munich,Germany,Europe,48.134703,11.581995,Munich,Germany,Europe,48.134703,11.581995,0.0
+Ferdinand Braun,Fulda,Hesse-Kassel,Europe,50.555890,9.680090,Strasbourg,Germany,Europe,48.573361,7.752464,260.8711569895567
+Ferenc Krausz,Mór,Hungary,Europe,47.371667,18.208611,Garching,Germany,Europe,48.250876,11.652813,500.4808026751996
+Ferenc Krausz,Mór,Hungary,Europe,47.371667,18.208611,Munich,Germany,Europe,48.134703,11.581995,503.8921188820452
+Ferid Murad,"Whiting, IN",USA,North America,41.676111,-87.490611,"Houston, TX",USA,North America,29.769539,-95.389817,1500.3714700399498
+Finn E. Kydland,Gjesdal,Norway,Europe,58.781939,6.008611,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,6065.2952997060065
+Finn E. Kydland,Gjesdal,Norway,Europe,58.781939,6.008611,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,8524.737923291686
+Frances H. Arnold,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,"Pasadena, CA",USA,North America,34.150071,-118.142111,3424.8299253315504
+Francis Crick,Northampton,United Kingdom,Europe,52.233333,-0.900000,Cambridge,United Kingdom,Europe,52.194605,0.135092,70.87914900820469
+Francis W. Aston,Harborne,United Kingdom,Europe,52.450000,-1.970000,Cambridge,United Kingdom,Europe,52.194605,0.135092,146.31362070255398
+Franco Modigliani,Rome,Italy,Europe,41.902288,12.506464,"Cambridge, MA",USA,North America,42.374024,-71.107306,6605.636332532797
+François Englert,Etterbeek,Belgium,Europe,50.836143,4.386174,Brussels,Belgium,Europe,50.849243,4.354815,2.646204850810932
+François Jacob,Nancy,France,Europe,48.691336,6.185111,Paris,France,Europe,48.860093,2.355954,282.03710869881905
+Françoise Barré-Sinoussi,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Frank Wilczek,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Frédéric Joliot,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Frederick C. Robbins,"Auburn, AL",USA,North America,32.597778,-85.480833,"Cleveland, OH",USA,North America,41.496386,-81.710675,1042.6535125160094
+Frederick G. Banting,Alliston,Canada,North America,44.153947,-79.869022,Toronto,Canada,North America,43.654211,-79.384956,67.78881899214147
+Frederick Reines,"Paterson, NJ",USA,North America,40.915556,-74.163056,"Irvine, CA",USA,North America,33.685447,-117.826826,3911.6646406239797
+Frederick Sanger,Rendcombe,United Kingdom,Europe,51.785000,-1.975000,Cambridge,United Kingdom,Europe,52.194605,0.135092,151.93943310443026
+Frederick Sanger,Rendcombe,United Kingdom,Europe,51.785000,-1.975000,Cambridge,United Kingdom,Europe,52.194605,0.135092,151.93943310443026
+Frederick Soddy,Eastbourne,United Kingdom,Europe,50.766389,0.286111,Oxford,United Kingdom,Europe,51.753363,-1.260979,154.0053220451294
+Friedrich Bergius,"Goldschmieden, near Breslau",Germany,Europe,,,Heidelberg,Germany,Europe,49.399220,8.680522,
+Friedrich Bergius,"Goldschmieden, near Breslau",Germany,Europe,,,Mannheim-Rheinau,Germany,Europe,49.432189,8.531714,
+Frits Zernike,Amsterdam,the Netherlands,Europe,52.369420,4.907108,Groningen,the Netherlands,Europe,53.218593,6.566722,146.49579736870038
+Fritz Haber,Breslau,Prussia,Europe,51.110000,17.032500,Berlin-Dahlem,Germany,Europe,52.453739,13.293130,298.18581327462306
+Fritz Lipmann,Koenigsberg,Germany,Europe,54.716667,20.500000,"Boston, MA",USA,North America,42.360420,-71.056810,6403.313890965869
+Fritz Lipmann,Koenigsberg,Germany,Europe,54.716667,20.500000,"Boston, MA",USA,North America,42.360420,-71.056810,6403.313890965869
+Fritz Pregl,Laibach,Austria-Hungary,Europe,46.051389,14.506111,Graz,Austria,Europe,47.071923,15.443848,134.30913734683256
+Gabriel Lippmann,Hollerich,Luxembourg,Europe,49.604222,6.111880,Paris,France,Europe,48.860093,2.355954,285.7565573840214
+Gary Becker,"Pottsville, PA",USA,North America,40.685000,-76.203056,"Chicago, IL",USA,North America,41.876228,-87.638416,966.3718572268123
+Geoffrey Wilkinson,Todmorden,United Kingdom,Europe,53.713056,-2.096111,London,United Kingdom,Europe,51.510235,-0.120852,279.2406336760245
+Georg von Békésy,Budapest,Hungary,Europe,47.497799,19.038285,"Cambridge, MA",USA,North America,42.374024,-71.107306,6722.327069365647
+Georg Wittig,Berlin,Germany,Europe,52.522265,13.406852,Heidelberg,Germany,Europe,49.399220,8.680522,480.3960923690491
+George A. Akerlof,"New Haven, CT",USA,North America,41.307802,-72.932531,"Berkeley, CA",USA,North America,37.871790,-122.274715,4198.615273286861
+George A. Olah,Budapest,Hungary,Europe,47.497799,19.038285,"Los Angeles, CA",USA,North America,34.062144,-118.225001,10019.118508219624
+George Beadle,"Wahoo, NE",USA,North America,41.211111,-96.619806,"Pasadena, CA",USA,North America,34.150071,-118.142111,2046.9230482405167
+George D. Snell,"Bradford, MA",USA,North America,42.769444,-71.075833,"Bar Harbor, ME",USA,North America,44.389205,-68.205617,293.44935494643516
+George de Hevesy,Budapest,Austria-Hungary,Europe,47.497799,19.038285,Stockholm,Sweden,Europe,59.325371,18.070794,1317.859711883194
+George E. Palade,Iasi,Romania,Europe,47.156108,27.601732,"New Haven, CT",USA,North America,41.307802,-72.932531,7470.966187198387
+George E. Smith,"White Plains, NY",USA,North America,41.033985,-73.762909,"Murray Hill, NJ",USA,North America,40.695294,-74.399829,65.55898924710934
+George F. Smoot,"Yukon, FL",USA,North America,30.234684,-81.698151,"Berkeley, CA",USA,North America,37.871790,-122.274715,3809.655275534321
+George H. Hitchings,"Hoquiam, WA",USA,North America,46.980278,-123.885556,"Research Triangle Park, NC",USA,North America,35.899153,-78.866926,3898.0894788399196
+George H. Whipple,"Ashland, NH",USA,North America,43.695271,-71.630740,"Rochester, NY",USA,North America,43.156356,-77.599235,486.88823309683124
+George J. Stigler,"Renton, WA",USA,North America,47.479917,-122.203444,"Chicago, IL",USA,North America,41.876228,-87.638416,2785.83937879891
+George P. Smith,"Norwalk, CT",USA,North America,41.117596,-73.407898,Columbia,USA,North America,38.933333,-92.300000,1627.4976362158704
+George Paget Thomson,Cambridge,United Kingdom,Europe,52.194605,0.135092,London,United Kingdom,Europe,51.510235,-0.120852,78.16149176892779
+George Porter,Stainforth,United Kingdom,Europe,53.595833,-1.025278,London,United Kingdom,Europe,51.510235,-0.120852,240.04624745536657
+George R. Minot,"Boston, MA",USA,North America,42.360420,-71.056810,"Cambridge, MA",USA,North America,42.374024,-71.107306,4.425484313276245
+George Wald,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Georges Charpak,Dabrovica,Poland,Europe,51.273176,22.459883,Paris,France,Europe,48.860093,2.355954,1459.3459482315063
+Georges Charpak,Dabrovica,Poland,Europe,51.273176,22.459883,Geneva,Switzerland,Europe,46.203397,6.145957,1321.9849634909126
+Georges J.F. Köhler,Munich,Germany,Europe,48.134703,11.581995,Basel,Switzerland,Europe,47.560153,7.587880,305.65135009818636
+Gerald M. Edelman,"New York, NY",USA,North America,40.715758,-74.011300,"New York, NY",USA,North America,40.715758,-74.011300,0.0
+Gerard Debreu,Calais,France,Europe,50.951555,1.858510,"Berkeley, CA",USA,North America,37.871790,-122.274715,8762.102225480496
+Gérard Mourou,Albertville,France,Europe,45.675833,6.392500,Palaiseau,France,Europe,48.714509,2.245748,461.238573447961
+Gérard Mourou,Albertville,France,Europe,45.675833,6.392500,"Ann Arbor, MI",USA,North America,42.281061,-83.745758,6835.957934952656
+Gerardus 't Hooft,Den Helder,the Netherlands,Europe,52.957977,4.760279,Utrecht,the Netherlands,Europe,52.090276,5.120942,99.60979924510069
+Gerd Binnig,Frankfurt-on-the-Main,West Germany,Europe,50.107886,8.691488,Rüschlikon,Switzerland,Europe,47.305721,8.553687,311.7768783603824
+Gerhard Domagk,Lagow,Germany,Europe,52.334306,15.292694,Munster,Germany,Europe,51.962665,7.615851,526.8588278563201
+Gerhard Ertl,Bad Cannstatt,Germany,Europe,48.827297,9.217003,Berlin,Germany,Europe,52.522265,13.406852,506.4348634938261
+Gerhard Herzberg,Hamburg,Germany,Europe,53.548276,9.987422,Ottawa,Canada,North America,45.425881,-75.739951,5892.995232982005
+Gertrude B. Elion,"New York, NY",USA,North America,40.715758,-74.011300,"Research Triangle Park, NC",USA,North America,35.899153,-78.866926,682.5500835145886
+Gerty Cori,Prague,Austria-Hungary,Europe,50.075070,14.429890,"St. Louis, MO",USA,North America,38.628133,-90.212222,7736.032954167626
+Giorgio Parisi,Rome,Italy,Europe,41.902288,12.506464,Rome,Italy,Europe,41.902288,12.506464,0.0
+Giulio Natta,Imperia,Italy,Europe,43.886467,8.029653,Milan,Italy,Europe,45.460249,9.181687,197.3016003298777
+Glenn T. Seaborg,"Ishpeming, MI",USA,North America,46.488611,-87.667500,"Berkeley, CA",USA,North America,37.871790,-122.274715,2987.235305095774
+Godfrey N. Hounsfield,Newark,United Kingdom,Europe,53.076500,-0.810000,London,United Kingdom,Europe,51.510235,-0.120852,180.51172088871166
+Gregg L. Semenza,"New York, NY",USA,North America,40.715758,-74.011300,"Baltimore, MD",USA,North America,39.291586,-76.625305,273.5254025272767
+Guglielmo Marconi,Bologna,Italy,Europe,44.493889,11.342778,London,United Kingdom,Europe,51.510235,-0.120852,1155.3173485871291
+Guido W. Imbens,Geldrop,the Netherlands,Europe,,,"Stanford, CA",USA,North America,37.424734,-122.163858,
+Günter Blobel,Waltersdorf,Germany,Europe,51.588056,15.713056,"New York, NY",USA,North America,40.715758,-74.011300,6590.671036514295
+Günter Blobel,Waltersdorf,Germany,Europe,51.588056,15.713056,,USA,North America,,,
+Gustaf Dalén,Stenstorp,Sweden,Europe,58.272744,13.717164,"Lidingö, Stockholm",Sweden,Europe,59.366158,18.135287,282.75608085177083
+Gustav Hertz,Hamburg,Germany,Europe,53.548276,9.987422,Halle,Germany,Europe,51.495345,11.965363,264.95020079282796
+H. David Politzer,"New York, NY",USA,North America,40.715758,-74.011300,"Pasadena, CA",USA,North America,34.150071,-118.142111,3930.9770780869117
+H. Gobind Khorana,Raipur,India,Asia,21.251788,81.629678,"Madison, WI",USA,North America,43.071835,-89.386688,12823.403357357976
+H. Robert Horvitz,"Chicago, IL",USA,North America,41.876228,-87.638416,"Cambridge, MA",USA,North America,42.374024,-71.107306,1365.8913844513734
+Hamilton O. Smith,"New York, NY",USA,North America,40.715758,-74.011300,"Baltimore, MD",USA,North America,39.291586,-76.625305,273.5254025272767
+Hannes Alfvén,Norrköping,Sweden,Europe,58.588471,16.197026,Stockholm,Sweden,Europe,59.325371,18.070794,135.5109798088365
+Hans Bethe,Strasbourg,Germany,Europe,48.573361,7.752464,"Ithaca, NY",USA,North America,42.444089,-76.500950,6277.122829244246
+Hans Fischer,Hoechst,Germany,Europe,50.098889,8.546667,Munich,Germany,Europe,48.134703,11.581995,311.10092569056894
+Hans G. Dehmelt,Görlitz,Prussia,Europe,51.152503,14.968883,"Seattle, WA",USA,North America,47.611072,-122.355118,8327.970585272056
+Hans Krebs,Hildesheim,Germany,Europe,52.156017,9.956681,Sheffield,United Kingdom,Europe,53.381680,-1.474057,782.5943566837558
+Hans Spemann,Stuttgart,Württemberg,Europe,48.775924,9.182014,Breisgau,Germany,Europe,47.999459,7.845170,131.3672551700074
+Hans von Euler-Chelpin,Augsburg,Germany,Europe,48.370459,10.898174,Stockholm,Sweden,Europe,59.325371,18.070794,1305.6878561903416
+Harald zur Hausen,Gelsenkirchen,Germany,Europe,51.516667,7.100000,Heidelberg,Germany,Europe,49.399220,8.680522,260.89856130388455
+Harold C. Urey,"Walkerton, IN",USA,North America,41.463889,-86.484389,"New York, NY",USA,North America,40.715758,-74.011300,1050.3701998798274
+Harold E. Varmus,"Oceanside, NY",USA,North America,40.638714,-73.640129,"San Francisco, CA",USA,North America,37.774498,-122.429706,4171.9759207450525
+Harry M. Markowitz,"Chicago, IL",USA,North America,41.876228,-87.638416,"New York, NY",USA,North America,40.715758,-74.011300,1147.3968837037248
+Hartmut Michel,Ludwigsburg,West Germany,Europe,48.895393,9.189515,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,139.5935763107436
+Harvey J. Alter,"New York, NY",USA,North America,40.715758,-74.011300,"Bethesda, MD",USA,North America,38.984918,-77.093308,326.3090803415182
+Heike Kamerlingh Onnes,Groningen,the Netherlands,Europe,53.218593,6.566722,Leiden,the Netherlands,Europe,52.160787,4.495746,182.92405578441364
+Heinrich Rohrer,Buchs,Switzerland,Europe,47.195724,8.719459,Rüschlikon,Switzerland,Europe,47.305721,8.553687,17.52203829163662
+Heinrich Wieland,Pforzheim,Germany,Europe,48.895000,8.705000,Munich,Germany,Europe,48.134703,11.581995,228.7305475577176
+Hendrik A. Lorentz,Arnhem,the Netherlands,Europe,51.984257,5.910857,Leiden,the Netherlands,Europe,52.160787,4.495746,98.99634195059008
+Henri Becquerel,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Henri Moissan,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Henrik Dam,Copenhagen,Denmark,Europe,55.678127,12.572532,Copenhagen,Denmark,Europe,55.678127,12.572532,0.0
+Henry Taube,Neudorf,Canada,North America,50.709694,-103.014000,"Stanford, CA",USA,North America,37.424734,-122.163858,2117.0184945691076
+Henry W. Kendall,"Boston, MA",USA,North America,42.360420,-71.056810,"Cambridge, MA",USA,North America,42.374024,-71.107306,4.425484313276245
+Herbert A. Hauptman,"New York, NY",USA,North America,40.715758,-74.011300,"Buffalo, NY",USA,North America,42.886435,-78.873198,470.40926626047275
+Herbert C. Brown,London,United Kingdom,Europe,51.510235,-0.120852,"West Lafayette, IN",USA,North America,40.425629,-86.907457,6435.07359869285
+Herbert Kroemer,Weimar,Germany,Europe,50.981111,11.329444,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,9403.40025622539
+Herbert S. Gasser,"Platteville, WI",USA,North America,42.736944,-90.477500,"New York, NY",USA,North America,40.715758,-74.011300,1386.0285079392906
+Herbert Simon,"Milwaukee, WI",USA,North America,43.050000,-87.950000,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,720.9766784917758
+Hermann J. Muller,"New York, NY",USA,North America,40.715758,-74.011300,"Bloomington, IN",USA,North America,39.165500,-86.526591,1082.4474873070797
+Hermann Staudinger,Worms,Germany,Europe,49.631944,8.365278,Breisgau,Germany,Europe,47.999459,7.845170,185.5160095427535
+Hermann Staudinger,Worms,Germany,Europe,49.631944,8.365278,Breisgau,Germany,Europe,47.999459,7.845170,185.5160095427535
+Hideki Shirakawa,Tokyo,Japan,Asia,35.680183,139.769373,Tsukuba,Japan,Asia,36.104610,140.083461,54.97196416664564
+Hideki Yukawa,Tokyo,Japan,Asia,35.680183,139.769373,"New York, NY",USA,North America,40.715758,-74.011300,10870.256739763845
+Hideki Yukawa,Tokyo,Japan,Asia,35.680183,139.769373,Kyoto,Japan,Asia,35.017709,135.761432,371.628349332516
+Hiroshi Amano,Hamamatsu,Japan,Asia,34.710979,137.725937,Nagoya,Japan,Asia,35.180679,136.918749,90.28875347337252
+Horst L. Störmer,Frankfurt-on-the-Main,West Germany,Europe,50.107886,8.691488,"New York, NY",USA,North America,40.715758,-74.011300,6220.35212614604
+Howard M. Temin,"Philadelphia, PA",USA,North America,39.957132,-75.174342,"Madison, WI",USA,North America,43.071835,-89.386688,1234.058184266993
+Hugo Theorell,Linköping,Sweden,Europe,58.409418,15.625656,Stockholm,Sweden,Europe,59.325371,18.070794,174.08696010842337
+Igor Y. Tamm,Vladivostok,Russia,Europe,43.116667,131.900000,Moscow,USSR,Europe,55.741387,37.618892,6435.38630526549
+Igor Y. Tamm,Vladivostok,Russia,Europe,43.116667,131.900000,Moscow,USSR,Europe,55.741387,37.618892,6435.38630526549
+Il´ja M. Frank,Leningrad,Russia,Europe,59.956651,30.333547,Moscow,USSR,Europe,55.741387,37.618892,637.6947330413526
+Il´ja M. Frank,Leningrad,Russia,Europe,59.956651,30.333547,Moscow,USSR,Europe,55.741387,37.618892,637.6947330413526
+Ilya Mechnikov,Kharkov,Russian Empire,Europe,49.992500,36.231111,Paris,France,Europe,48.860093,2.355954,2439.6263383123887
+Ilya Prigogine,Moscow,Russia,Europe,55.741387,37.618892,Brussels,Belgium,Europe,50.849243,4.354815,2260.020594026468
+Ilya Prigogine,Moscow,Russia,Europe,55.741387,37.618892,"Austin, TX",USA,North America,30.266153,-97.742706,9578.490038080903
+Irène Joliot-Curie,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Irving Langmuir,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Schenectady, NY",USA,North America,42.814412,-73.932739,237.4720628737339
+Irwin Rose,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Irvine, CA",USA,North America,33.685447,-117.826826,3930.9198649969744
+Isamu Akasaki,Chiran,Japan,Asia,31.378250,130.441611,Nagoya,Japan,Asia,35.180679,136.918749,735.8759624269568
+Isamu Akasaki,Chiran,Japan,Asia,31.378250,130.441611,Nagoya,Japan,Asia,35.180679,136.918749,735.8759624269568
+Isidor Isaac Rabi,Rymanow,Austria-Hungary,Europe,49.576432,21.867743,"New York, NY",USA,North America,40.715758,-74.011300,7079.7001412665495
+Ivan Pavlov,Ryazan,Russia,Europe,54.613102,39.704829,St. Petersburg,Russia,Europe,59.956651,30.333547,819.207973738058
+Ivar Giaever,Bergen,Norway,Europe,60.391055,5.320927,"Schenectady, NY",USA,North America,42.814412,-73.932739,5443.476302255108
+J. Georg Bednorz,Neuenkirchen,West Germany,Europe,52.243240,7.370654,Rüschlikon,Switzerland,Europe,47.305721,8.553687,555.724412380917
+J. Hans D. Jensen,Hamburg,Germany,Europe,53.548276,9.987422,Heidelberg,Germany,Europe,49.399220,8.680522,470.43650671432033
+J. Michael Bishop,"York, PA",USA,North America,39.930149,-76.691902,"San Francisco, CA",USA,North America,37.774498,-122.429706,3933.9081283579253
+J. Michael Kosterlitz,Aberdeen,United Kingdom,Europe,57.148243,-2.092809,"Providence, RI",USA,North America,41.823659,-71.410881,5054.589741091299
+J.J. Thomson,Cheetham Hill,United Kingdom,Europe,53.502515,-2.235535,Cambridge,United Kingdom,Europe,52.194605,0.135092,216.06399254181608
+Jack Kilby,"Jefferson City, MO",USA,North America,46.386694,-112.041000,"Dallas, TX",USA,North America,32.779831,-96.801627,1991.8798538114395
+Jack Steinberger,Bad Kissingen,Germany,Europe,50.198593,10.075495,Geneva,Switzerland,Europe,46.203397,6.145957,531.4997351600138
+Jack W. Szostak,London,United Kingdom,Europe,51.510235,-0.120852,"Boston, MA",USA,North America,42.360420,-71.056810,5279.0064467026905
+Jack W. Szostak,London,United Kingdom,Europe,51.510235,-0.120852,"Boston, MA",USA,North America,42.360420,-71.056810,5279.0064467026905
+Jack W. Szostak,London,United Kingdom,Europe,51.510235,-0.120852,,USA,North America,,,
+Jacobus H. van 't Hoff,Rotterdam,the Netherlands,Europe,51.925205,4.489110,Berlin,Germany,Europe,52.522265,13.406852,612.6067843687218
+Jacques Dubochet,Aigle,Switzerland,Europe,46.317432,6.969595,Lausanne,Switzerland,Europe,46.533333,6.633333,35.27138278186109
+Jacques Monod,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+James A. Mirrlees,Minnigaff,Scotland,Europe,54.966944,-4.483056,Cambridge,United Kingdom,Europe,52.194605,0.135092,434.29446660179394
+James B. Sumner,"Canton, MA",USA,North America,42.158333,-71.145278,"Ithaca, NY",USA,North America,42.444089,-76.500950,442.6877408540556
+James Chadwick,Manchester,United Kingdom,Europe,53.478756,-2.245094,Liverpool,United Kingdom,Europe,53.409188,-2.981257,49.52419731604627
+James Cronin,"Chicago, IL",USA,North America,41.876228,-87.638416,"Chicago, IL",USA,North America,41.876228,-87.638416,0.0
+James E. Meade,Swanage,United Kingdom,Europe,50.610000,-1.960000,Cambridge,United Kingdom,Europe,52.194605,0.135092,228.75218413558392
+James E. Rothman,"Haverhill, MA",USA,North America,42.783333,-71.083333,"New Haven, CT",USA,North America,41.307802,-72.932531,224.26479526708877
+James Franck,Hamburg,Germany,Europe,53.548276,9.987422,Göttingen,Germany,Europe,51.539385,9.913113,223.60143771355857
+James J. Heckman,"Chicago, IL",USA,North America,41.876228,-87.638416,"Chicago, IL",USA,North America,41.876228,-87.638416,0.0
+James M. Buchanan Jr.,"Murfreesboro, TN",USA,North America,35.846111,-86.391944,"Fairfax, VA",USA,North America,38.845963,-77.302791,870.9431375407173
+James P. Allison,"Alice, TX",USA,North America,27.750611,-98.070306,"San Francisco, CA",USA,North America,37.774498,-122.429706,2528.363440362476
+James P. Allison,"Alice, TX",USA,North America,27.750611,-98.070306,"Houston, TX",USA,North America,29.769539,-95.389817,344.3604539765662
+James Peebles,Winnipeg,Canada,North America,49.895538,-97.138458,"Princeton, NJ",USA,North America,40.359783,-74.668268,2049.0813721916843
+James Rainwater,"Council, ID",USA,North America,44.730000,-116.436111,"New York, NY",USA,North America,40.715758,-74.011300,3463.612774917081
+James Tobin,"Champaign, IL",USA,North America,40.112778,-88.261111,"New Haven, CT",USA,North America,41.307802,-72.932531,1300.3671662700528
+James Watson,"Chicago, IL",USA,North America,41.876228,-87.638416,"Cambridge, MA",USA,North America,42.374024,-71.107306,1365.8913844513734
+Jan Tinbergen,the Hague,the Netherlands,Europe,52.070359,4.300254,Rotterdam,the Netherlands,Europe,51.925205,4.489110,20.714607016723054
+Jaroslav Heyrovsky,Prague,Austria-Hungary,Europe,50.075070,14.429890,Prague,Czechoslovakia,Europe,50.075070,14.429890,0.0
+Jean Baptiste Perrin,Lille,France,Europe,50.631944,3.057500,Paris,France,Europe,48.860093,2.355954,203.4529258827544
+Jean Dausset,Toulouse,France,Europe,43.604154,1.442453,Paris,France,Europe,48.860093,2.355954,588.4498112891018
+Jean Tirole,Troyes,France,Europe,48.297161,4.074626,Toulouse,France,Europe,43.604154,1.442453,560.0384281659439
+Jean-Marie Lehn,Rosheim,France,Europe,48.496422,7.469883,Strasbourg,France,Europe,48.573361,7.752464,22.554500124647582
+Jean-Marie Lehn,Rosheim,France,Europe,48.496422,7.469883,Paris,France,Europe,48.860093,2.355954,378.6916502779275
+Jean-Pierre Sauvage,Paris,France,Europe,48.860093,2.355954,Strasbourg,France,Europe,48.573361,7.752464,398.30018136018157
+Jeffrey C. Hall,"New York, NY",USA,North America,40.715758,-74.011300,"Maine, ME",USA,North America,45.500000,-69.000000,669.6920300534032
+Jennifer A. Doudna,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Berkeley, CA",USA,North America,37.871790,-122.274715,3912.978439252225
+Jens C. Skou,Lemvig,Denmark,Europe,56.549722,8.309444,Aarhus,Denmark,Europe,56.157699,10.210669,125.37570276281907
+Jerome I. Friedman,"Chicago, IL",USA,North America,41.876228,-87.638416,"Cambridge, MA",USA,North America,42.374024,-71.107306,1365.8913844513734
+Jerome Karle,"New York, NY",USA,North America,40.715758,-74.011300,"Washington, D.C.",USA,North America,38.899065,-77.036523,328.2906974859007
+Joachim Frank,Siegen,Germany,Europe,50.873741,8.020064,"New York, NY",USA,North America,40.715758,-74.011300,6141.9566435918705
+Johann Deisenhofer,Zusamaltheim,Germany,Europe,48.529961,10.637020,"Dallas, TX",USA,North America,32.779831,-96.801627,8490.729803090164
+Johann Deisenhofer,Zusamaltheim,Germany,Europe,48.529961,10.637020,,USA,North America,,,
+Johannes Diderik van der Waals,Leiden,the Netherlands,Europe,52.160787,4.495746,Amsterdam,the Netherlands,Europe,52.369420,4.907108,36.437110911405696
+Johannes Fibiger,Silkeborg,Denmark,Europe,56.166667,9.550000,Copenhagen,Denmark,Europe,55.678127,12.572532,196.61637742421755
+Johannes Stark,Schickenhof,Germany,Europe,48.606708,15.102762,Greifswald,Germany,Europe,54.087591,13.390659,621.2819957295312
+John B. Fenn,"New York, NY",USA,North America,40.715758,-74.011300,"Richmond, VA",USA,North America,37.539879,-77.436615,460.3936033834165
+John B. Goodenough,Jena,Germany,Europe,50.927222,11.586389,"Austin, TX",USA,North America,30.266153,-97.742706,8671.35219663889
+John Bardeen,"Madison, WI",USA,North America,43.071835,-89.386688,"Urbana, IL",USA,North America,40.110863,-88.206265,343.2628667843361
+John Bardeen,"Madison, WI",USA,North America,43.071835,-89.386688,"Urbana, IL",USA,North America,40.110863,-88.206265,343.2628667843361
+John C. Harsanyi,Budapest,Hungary,Europe,47.497799,19.038285,"Berkeley, CA",USA,North America,37.871790,-122.274715,9800.593626067277
+John C. Kendrew,Oxford,United Kingdom,Europe,51.753363,-1.260979,Cambridge,United Kingdom,Europe,52.194605,0.135092,107.76522369874331
+John C. Mather,"Roanoke, VA",USA,North America,37.270973,-79.941429,"Greenbelt, MD",USA,North America,39.004379,-76.875558,330.51475793341103
+John C. Polanyi,Berlin,Germany,Europe,52.522265,13.406852,Toronto,Canada,North America,43.654211,-79.384956,6494.556433761198
+John Clauser,"Pasadena, CA",USA,North America,34.150071,-118.142111,"Walnut Creek, CA",USA,North America,37.906313,-122.064963,546.4392799135186
+John Cockcroft,Todmorden,United Kingdom,Europe,53.713056,-2.096111,"Harwell, Berkshire",United Kingdom,Europe,,,
+John Cornforth,Sydney,Australia,Oceania,-33.854816,151.216461,Brighton,United Kingdom,Europe,50.824420,-0.143821,17026.481055299075
+John E. Sulston,Cambridge,United Kingdom,Europe,52.194605,0.135092,Cambridge,United Kingdom,Europe,52.194605,0.135092,0.0
+John E. Walker,Halifax,United Kingdom,Europe,53.725000,-1.863000,Cambridge,United Kingdom,Europe,52.194605,0.135092,216.85603690743076
+John F. Enders,"West Hartford, CT",USA,North America,41.358658,-72.151939,"Boston, MA",USA,North America,42.360420,-71.056810,143.69375258500892
+John F. Enders,"West Hartford, CT",USA,North America,41.358658,-72.151939,"Boston, MA",USA,North America,42.360420,-71.056810,143.69375258500892
+John F. Nash Jr.,"Bluefield, WV",USA,North America,37.262222,-81.218611,"Princeton, NJ",USA,North America,40.359783,-74.668268,664.503527317866
+John H. Northrop,"Yonkers, NY",USA,North America,40.941389,-73.864444,"Princeton, NJ",USA,North America,40.359783,-74.668268,93.77215496096294
+John H. Van Vleck,"Middletown, CT",USA,North America,41.562222,-72.651111,"Cambridge, MA",USA,North America,42.374024,-71.107306,156.54134623077698
+John L. Hall,"Denver, CO",USA,North America,39.739235,-104.984863,"Boulder, CO",USA,North America,40.014316,-105.269847,39.07974066676359
+John L. Hall,"Denver, CO",USA,North America,39.739235,-104.984863,"Boulder, CO",USA,North America,40.014316,-105.269847,39.07974066676359
+John Macleod,Cluny,Scotland,Europe,46.429117,4.664877,Toronto,Canada,North America,43.654211,-79.384956,6300.731476793747
+John O'Keefe,"New York, NY",USA,North America,40.715758,-74.011300,London,United Kingdom,Europe,51.510235,-0.120852,5585.735500439664
+John Pople,Burnham-on-Sea,United Kingdom,Europe,51.237500,-2.993611,"Evanston, IL",USA,North America,42.045791,-87.686963,6197.726117700261
+John R. Hicks,Warwick,United Kingdom,Europe,52.280000,-1.590000,Oxford,United Kingdom,Europe,51.753363,-1.260979,62.80037870935528
+John R. Vane,Tardebigg,United Kingdom,Europe,52.321944,-2.006944,Beckenham,United Kingdom,Europe,51.407881,-0.025575,170.20100413383068
+Joseph E. Murray,"Milford, MA",USA,North America,42.360252,-71.058289,"Boston, MA",USA,North America,42.360420,-71.056810,0.12326335252496619
+Joseph E. Stiglitz,"Gary, IN",USA,North America,41.580833,-87.345556,"New York, NY",USA,North America,40.715758,-74.011300,1122.3493821980173
+Joseph Erlanger,"San Francisco, CA",USA,North America,37.774498,-122.429706,"St. Louis, MO",USA,North America,38.628133,-90.212222,2809.0318569174374
+Joseph H. Taylor Jr.,"Philadelphia, PA",USA,North America,39.957132,-75.174342,"Princeton, NJ",USA,North America,40.359783,-74.668268,62.11163539011863
+Joseph L. Goldstein,"Sumter, SC",USA,North America,33.956333,-80.395676,"Dallas, TX",USA,North America,32.779831,-96.801627,1530.7145021379247
+Joshua D. Angrist,"Columbus, OH",USA,North America,39.962222,-83.000556,"Cambridge, MA",USA,North America,42.374024,-71.107306,1032.422261204044
+Joshua Lederberg,"Montclair, NJ",USA,North America,40.825930,-74.209030,"Madison, WI",USA,North America,43.071835,-89.386688,1281.0822494944707
+Jules A. Hoffmann,Echternach,Luxembourg,Europe,49.812096,6.421486,Strasbourg,France,Europe,48.573361,7.752464,168.48886668025364
+Jules Bordet,Soignies,Belgium,Europe,50.846558,4.351697,Brussels,Belgium,Europe,50.849243,4.354815,0.37072668745357723
+Julian Schwinger,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Julius Axelrod,"New York, NY",USA,North America,40.715758,-74.011300,"Bethesda, MD",USA,North America,38.984918,-77.093308,326.3090803415182
+Julius Wagner-Jauregg,Wels,Austria,Europe,48.150000,14.016667,Vienna,Austria,Europe,48.207646,16.372793,175.32856002281005
+K. Alex Müller,Basel,Switzerland,Europe,47.560153,7.587880,Rüschlikon,Switzerland,Europe,47.305721,8.553687,78.15786581383621
+K. Barry Sharpless,"Philadelphia, PA",USA,North America,39.957132,-75.174342,"La Jolla, CA",USA,North America,32.832367,-117.265117,3821.3452772469395
+K. Barry Sharpless,"Philadelphia, PA",USA,North America,39.957132,-75.174342,"La Jolla, CA",USA,North America,32.832367,-117.265117,3821.3452772469395
+Kai M. Siegbahn,Lund,Sweden,Europe,55.708313,13.199164,Uppsala,Sweden,Europe,59.858503,17.638748,532.0863552898576
+Karl Landsteiner,Vienna,Austrian Empire,Europe,48.207646,16.372793,"New York, NY",USA,North America,40.715758,-74.011300,6814.701189570971
+Karl von Frisch,Vienna,Austria,Europe,48.207646,16.372793,Munich,Germany,Europe,48.134703,11.581995,356.36526183033226
+Karl Ziegler,Helsa,Germany,Europe,51.226667,9.671667,Mülheim an der Ruhr,Germany,Europe,51.417669,6.885180,195.3939528108002
+Katalin Karikó,Szolnok,Hungary,Europe,47.174722,20.176389,Szeged,Hungary,Europe,46.252930,20.141511,102.50593683174033
+Katalin Karikó,Szolnok,Hungary,Europe,47.174722,20.176389,"Philadelphia, PA",USA,North America,39.957132,-75.174342,7248.074754621792
+Keffer Hartline,"Bloomsburg, PA",USA,North America,41.002500,-76.458056,"New York, NY",USA,North America,40.715758,-74.011300,208.73173329673074
+Kenichi Fukui,Nara,Japan,Asia,34.685194,135.832944,Kyoto,Japan,Asia,35.017709,135.761432,37.46374989812707
+Kenneth G. Wilson,"Waltham, MA",USA,North America,42.380556,-71.235000,"Ithaca, NY",USA,North America,42.444089,-76.500950,433.44807281394117
+Kenneth J. Arrow,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Kip S. Thorne,"Logan, UT",USA,North America,41.731346,-111.834862,,,,,,
+Kip S. Thorne,"Logan, UT",USA,North America,41.731346,-111.834862,"Pasadena, CA",USA,North America,34.150071,-118.142111,1007.0288290757136
+Klaus Hasselmann,Hamburg,Germany,Europe,53.548276,9.987422,Hamburg,Germany,Europe,53.548276,9.987422,0.0
+Klaus von Klitzing,Schroda,German-occupied Poland,Europe,52.233333,17.283333,Stuttgart,Germany,Europe,48.775924,9.182014,690.9095515591837
+Koichi Tanaka,Toyama City,Japan,Asia,36.695572,137.213547,Kyoto,Japan,Asia,35.017709,135.761432,227.7274527375319
+Konrad Bloch,Neisse,Germany,Europe,50.471389,17.333889,"Cambridge, MA",USA,North America,42.374024,-71.107306,6446.922249460479
+Konrad Lorenz,Vienna,Austria,Europe,48.207646,16.372793,Altenberg; Grünau im Almtal,Austria,Europe,,,
+Konrad Lorenz,Vienna,Austria,Europe,48.207646,16.372793,Seewiesen,Germany,Europe,,,
+Konstantin Novoselov,Nizhny Tagil,Russia,Europe,57.905148,59.950848,Manchester,United Kingdom,Europe,53.478756,-2.245094,3801.711106816498
+Kurt Alder,Königshütte,Prussia,Europe,50.300000,18.950000,Cologne,Germany,Europe,50.938552,6.957702,850.7219763726957
+Kurt Wüthrich,Aarberg,Switzerland,Europe,46.949654,7.442427,Zurich,Switzerland,Europe,47.376909,8.541697,95.93410490727312
+Kurt Wüthrich,Aarberg,Switzerland,Europe,46.949654,7.442427,"La Jolla, CA",USA,North America,32.832367,-117.265117,9585.615045371644
+Lars Onsager,Kristiania,Norway,Europe,59.917165,10.750092,"New Haven, CT",USA,North America,41.307802,-72.932531,5822.552622337268
+Lars Peter Hansen,"Urbana, IL",USA,North America,40.110863,-88.206265,"Chicago, IL",USA,North America,41.876228,-87.638416,201.78749473944296
+Lawrence Bragg,Adelaide,Australia,Oceania,-34.926940,138.598792,Manchester,United Kingdom,Europe,53.478756,-2.245094,16336.78217834021
+Lawrence R. Klein,"Omaha, NE",USA,North America,41.258611,-95.937500,"Philadelphia, PA",USA,North America,39.957132,-75.174342,1758.9484837247228
+Leland Hartwell,"Los Angeles, CA",USA,North America,34.062144,-118.225001,"Seattle, WA",USA,North America,47.611072,-122.355118,1543.8230267190243
+Leo Esaki,Osaka,Japan,Asia,34.693756,135.501450,"Yorktown Heights, NY",USA,North America,41.270532,-73.778044,11078.416329471846
+Leon M. Lederman,"New York, NY",USA,North America,40.715758,-74.011300,"Batavia, IL",USA,North America,41.849799,-88.314058,1203.392704015112
+Leon N. Cooper,"New York, NY",USA,North America,40.715758,-74.011300,"Providence, RI",USA,North America,41.823659,-71.410881,250.21616933849901
+Leonid Hurwicz,Moscow,Russia,Europe,55.741387,37.618892,"Minneapolis, MN",USA,North America,44.978196,-93.266630,7931.939070447705
+Leonid Vitaliyevich Kantorovich,St. Petersburg,Russian Empire,Europe,59.956651,30.333547,Moscow,USSR,Europe,55.741387,37.618892,637.6947330413526
+Leopold Ruzicka,Vukovar,Austria-Hungary,Europe,45.345576,19.000574,Zurich,Switzerland,Europe,47.376909,8.541697,835.2238816452414
+Lev Landau,Baku,Russian Empire,Asia,40.366656,49.835183,Moscow,USSR,Europe,55.741387,37.618892,1930.4153374324353
+Linda B. Buck,"Seattle, WA",USA,North America,47.611072,-122.355118,"Seattle, WA",USA,North America,47.611072,-122.355118,0.0
+Linus Pauling,"Portland, OR",USA,North America,45.516667,-122.666667,"Pasadena, CA",USA,North America,34.150071,-118.142111,1319.5598734832495
+Linus Pauling,"Portland, OR",USA,North America,45.516667,-122.666667,"Pasadena, CA",USA,North America,34.150071,-118.142111,1319.5598734832495
+Lloyd S. Shapley,"Cambridge, MA",USA,North America,42.374024,-71.107306,"Los Angeles, CA",USA,North America,34.062144,-118.225001,4172.656445484675
+Lord Rayleigh,"Langford Grove, Maldon, Essex",United Kingdom,Europe,,,London,United Kingdom,Europe,51.510235,-0.120852,
+Lord Todd,Glasgow,Scotland,Europe,55.861111,-4.250000,Cambridge,United Kingdom,Europe,52.194605,0.135092,498.9085471806173
+Louis Brus,"Cleveland, OH",USA,North America,41.496386,-81.710675,"New York, NY",USA,North America,40.715758,-74.011300,652.3082730385581
+Louis de Broglie,Dieppe,France,Europe,49.925000,1.075000,Paris,France,Europe,48.860093,2.355954,150.57538360116234
+Louis J. Ignarro,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Los Angeles, CA",USA,North America,34.062144,-118.225001,3947.4011158659696
+Louis Néel,Lyon,France,Europe,45.758889,4.841389,Grenoble,France,Europe,45.188186,5.724005,93.73450327562482
+Louis Renault,Autun,France,Europe,46.951111,4.298611,Paris,France,Europe,48.860093,2.355954,257.1694295431765
+Luc Montagnier,Chabris,France,Europe,47.255000,1.653333,Paris,France,Europe,48.860093,2.355954,185.99661556918417
+Luis Alvarez,"San Francisco, CA",USA,North America,37.774498,-122.429706,"Berkeley, CA",USA,North America,37.871790,-122.274715,17.40179407899334
+Luis Leloir,Paris,France,Europe,48.860093,2.355954,Buenos Aires,Argentina,South America,-34.603443,-58.396729,11026.408826685485
+M. Stanley Whittingham,,United Kingdom,Europe,,,"New York, NY",USA,North America,40.715758,-74.011300,
+Makoto Kobayashi,Nagoya,Japan,Asia,35.180679,136.918749,Tsukuba,Japan,Asia,36.104610,140.083461,304.38528883135643
+Manfred Eigen,Bochum,Germany,Europe,51.483333,7.216667,Göttingen,Germany,Europe,51.539385,9.913113,187.28927960102314
+Manne Siegbahn,Örebro,Sweden,Europe,59.266926,15.196522,Uppsala,Sweden,Europe,59.858503,17.638748,152.98074513593025
+Maria Goeppert Mayer,Kattowitz,Germany,Europe,50.250000,19.000000,"San Diego, CA",USA,North America,32.730500,-117.166696,9853.889976884735
+Marie Curie,Warsaw,Russian Empire,Europe,52.230046,21.011995,Paris,France,Europe,48.860093,2.355954,1370.1238894001126
+Mario J. Molina,Mexico City,Mexico,North America,19.431956,-99.134606,"Cambridge, MA",USA,North America,42.374024,-71.107306,3661.961198320472
+Mario R. Capecchi,Verona,Italy,Europe,45.438496,10.992412,"Salt Lake City, UT",USA,North America,40.760369,-111.892341,8899.428081836928
+Mario R. Capecchi,Verona,Italy,Europe,45.438496,10.992412,,USA,North America,,,
+Marshall W. Nirenberg,"New York, NY",USA,North America,40.715758,-74.011300,"Bethesda, MD",USA,North America,38.984918,-77.093308,326.3090803415182
+Martin Chalfie,"Chicago, IL",USA,North America,41.876228,-87.638416,"New York, NY",USA,North America,40.715758,-74.011300,1147.3968837037248
+Martin Karplus,Vienna,Austria,Europe,48.207646,16.372793,Strasbourg,France,Europe,48.573361,7.752464,639.3777932982308
+Martin Karplus,Vienna,Austria,Europe,48.207646,16.372793,"Cambridge, MA",USA,North America,42.374024,-71.107306,6510.61674112187
+Martin L. Perl,"New York, NY",USA,North America,40.715758,-74.011300,"Stanford, CA",USA,North America,37.424734,-122.163858,4130.931594866662
+Martin Rodbell,"Baltimore, MD",USA,North America,39.291586,-76.625305,"Research Triangle Park, NC",USA,North America,35.899153,-78.866926,425.35301401268475
+Martin Ryle,Brighton,United Kingdom,Europe,50.824420,-0.143821,Cambridge,United Kingdom,Europe,52.194605,0.135092,153.66861186658804
+Masatoshi Koshiba,Toyohashi,Japan,Asia,34.769167,137.391528,Tokyo,Japan,Asia,35.680183,139.769373,238.89740193248946
+Maurice Allais,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Maurice Wilkins,Pongaroa,New Zealand,Oceania,-40.544518,176.190327,London,United Kingdom,Europe,51.510235,-0.120852,18753.28899908563
+Max Born,Breslau,Germany,Europe,51.110000,17.032500,Edinburgh,United Kingdom,Europe,55.955709,-3.207405,1439.7537841610408
+Max Delbrück,Berlin,Germany,Europe,52.522265,13.406852,"Pasadena, CA",USA,North America,34.150071,-118.142111,9318.01845108807
+Max F. Perutz,Vienna,Austria,Europe,48.207646,16.372793,Cambridge,United Kingdom,Europe,52.194605,0.135092,1237.9294214167658
+Max Planck,Kiel,Schleswig,Europe,54.323168,10.121556,Berlin,Germany,Europe,52.522265,13.406852,296.3769894011008
+Max Theiler,Pretoria,South Africa,Africa,-25.746389,28.188056,"New York, NY",USA,North America,40.715758,-74.011300,12816.470886484341
+Max von Laue,Pfaffendorf,Germany,Europe,,,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,
+May-Britt Moser,Fosnavåg,Norway,Europe,62.341667,5.633889,Trondheim,Norway,Europe,63.430515,10.395053,270.8165862812027
+Melvin Calvin,"St. Paul, MN",USA,North America,44.944167,-93.093611,"Berkeley, CA",USA,North America,37.871790,-122.274715,2547.193440261492
+Melvin Schwartz,"New York, NY",USA,North America,40.715758,-74.011300,"Mountain View, CA",USA,North America,37.380356,-122.077502,4125.490377170917
+Merton H. Miller,"Boston, MA",USA,North America,42.360420,-71.056810,"Chicago, IL",USA,North America,41.876228,-87.638416,1370.1311525034284
+Michael Houghton,,United Kingdom,Europe,,,Edmonton,Canada,North America,53.544389,-113.490927,
+Michael Kremer,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Michael Levitt,Pretoria,South Africa,Africa,-25.746389,28.188056,"Stanford, CA",USA,North America,37.424734,-122.163858,16943.255648441904
+Michael Rosbash,"Kansas City, MO",USA,North America,39.100105,-94.578140,"Waltham, MA",USA,North America,42.380556,-71.235000,1998.4188934956894
+Michael Rosbash,"Kansas City, MO",USA,North America,39.100105,-94.578140,,USA,North America,,,
+Michael S. Brown,"New York, NY",USA,North America,40.715758,-74.011300,"Dallas, TX",USA,North America,32.779831,-96.801627,2209.1869351714836
+Michael Smith,Blackpool,United Kingdom,Europe,53.816788,-3.037077,Vancouver,Canada,North America,49.282796,-123.120129,7277.7589646035485
+Michael W. Young,"Miami, FL",USA,North America,25.648090,-80.426262,"New York, NY",USA,North America,40.715758,-74.011300,1773.6556141373221
+Michel Mayor,Lausanne,Switzerland,Europe,46.533333,6.633333,Geneva,Switzerland,Europe,46.203397,6.145957,52.45456403698767
+Milton Friedman,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Chicago, IL",USA,North America,41.876228,-87.638416,1153.333503253279
+Morten Meldal,Copenhagen,Denmark,Europe,55.678127,12.572532,Copenhagen,Denmark,Europe,55.678127,12.572532,0.0
+Moungi Bawendi,Paris,France,Europe,48.860093,2.355954,"Cambridge, MA",USA,North America,42.374024,-71.107306,5549.066387908282
+Murray Gell-Mann,"New York, NY",USA,North America,40.715758,-74.011300,"Pasadena, CA",USA,North America,34.150071,-118.142111,3930.9770780869117
+Myron Scholes,"Timmins, ON",Canada,North America,48.474519,-81.333460,"Greenwich, CT",USA,North America,41.025910,-73.628316,1027.178952596688
+Nicholas Murray Butler,"Elizabeth, NJ",USA,North America,40.662222,-74.209167,"New York, NY",USA,North America,40.715758,-74.011300,17.750737648155873
+Nicolaas Bloembergen,Dordrecht,the Netherlands,Europe,51.813496,4.689689,"Cambridge, MA",USA,North America,42.374024,-71.107306,5583.509210216564
+Nicolay G. Basov,Usman,USSR,Europe,52.050000,39.733333,Moscow,USSR,Europe,55.741387,37.618892,433.6860354071622
+Niels Bohr,Copenhagen,Denmark,Europe,55.678127,12.572532,Copenhagen,Denmark,Europe,55.678127,12.572532,0.0
+Niels K. Jerne,London,United Kingdom,Europe,51.510235,-0.120852,Basel,Switzerland,Europe,47.560153,7.587880,709.5499579023713
+Niels Ryberg Finsen,Thorshavn,Faroe Islands (Denmark),Europe,62.010863,-6.774051,Copenhagen,Denmark,Europe,55.678127,12.572532,1313.3394924995105
+Nikolaas Tinbergen,the Hague,the Netherlands,Europe,52.070359,4.300254,Oxford,United Kingdom,Europe,51.753363,-1.260979,384.21049411007925
+Nikolay Semenov,Saratov,Russia,Europe,51.533333,46.000000,Moscow,USSR,Europe,55.741387,37.618892,724.8512402571017
+Nikolay Semenov,Saratov,Russia,Europe,51.533333,46.000000,Moscow,USSR,Europe,55.741387,37.618892,724.8512402571017
+Norman F. Ramsey,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Cambridge, MA",USA,North America,42.374024,-71.107306,632.5752439530953
+Norman Haworth,Chorley,United Kingdom,Europe,53.653056,-2.631944,Birmingham,United Kingdom,Europe,52.485610,-1.885354,139.22492698921883
+Odd Hassel,Kristiania,Norway,Europe,59.917165,10.750092,Oslo,Norway,Europe,59.917165,10.750092,0.0
+Oliver E. Williamson,"Superior, WI",USA,North America,46.720776,-92.104080,"Berkeley, CA",USA,North America,37.871790,-122.274715,2654.8103640184117
+Oliver Hart,London,United Kingdom,Europe,51.510235,-0.120852,"Cambridge, MA",USA,North America,42.374024,-71.107306,5281.428020498773
+Oliver Smithies,Halifax,United Kingdom,Europe,53.725000,-1.863000,"Chapel Hill, NC",USA,North America,35.912309,-79.055421,6087.243262351827
+Osamu Shimomura,Kyoto,Japan,Asia,35.017709,135.761432,"Woods Hole, MA",USA,North America,41.527173,-70.672715,11110.932381529114
+Osamu Shimomura,Kyoto,Japan,Asia,35.017709,135.761432,"Massachusetts, MA",USA,North America,42.300000,-71.800000,10996.228040047037
+Otto Diels,Hamburg,Germany,Europe,53.548276,9.987422,Kiel,Germany,Europe,54.323168,10.121556,86.69711507452172
+Otto Hahn,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,Berlin-Dahlem,Germany,Europe,52.453739,13.293130,413.62296604488273
+Otto Loewi,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,Graz,Austria,Europe,47.071923,15.443848,601.3834847071231
+Otto Meyerhof,Hanover,Germany,Europe,52.374444,9.738611,Kiel,Germany,Europe,54.323168,10.121556,218.37223339669282
+Otto Stern,Sorau,Germany,Europe,50.050000,18.700000,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,7242.6412450303515
+Otto Wallach,Koenigsberg,Germany,Europe,54.716667,20.500000,Göttingen,Germany,Europe,51.539385,9.913113,790.8932054379362
+Otto Warburg,Freiburg im Breisgau,Germany,Europe,47.995000,7.850000,Berlin-Dahlem,Germany,Europe,52.453739,13.293130,629.5878448875361
+Owen Chamberlain,"San Francisco, CA",USA,North America,37.774498,-122.429706,"Berkeley, CA",USA,North America,37.871790,-122.274715,17.40179407899334
+Owen Willans Richardson,Dewsbury,United Kingdom,Europe,53.683333,-1.633333,London,United Kingdom,Europe,51.510235,-0.120852,262.6254404327156
+Patrick M.S. Blackett,London,United Kingdom,Europe,51.510235,-0.120852,Manchester,United Kingdom,Europe,53.478756,-2.245094,262.2682517733755
+Paul A. Samuelson,"Gary, IN",USA,North America,41.580833,-87.345556,"Cambridge, MA",USA,North America,42.374024,-71.107306,1346.6518150069871
+Paul A.M. Dirac,Bristol,United Kingdom,Europe,51.455112,-2.584545,Cambridge,United Kingdom,Europe,52.194605,0.135092,204.74832547434607
+Paul Berg,"New York, NY",USA,North America,40.715758,-74.011300,"Stanford, CA",USA,North America,37.424734,-122.163858,4130.931594866662
+Paul C. Lauterbur,"Sidney, OH",USA,North America,40.289722,-84.161111,"Urbana, IL",USA,North America,40.110863,-88.206265,344.9618480612854
+Paul D. Boyer,"Provo, UT",USA,North America,40.233833,-111.658528,"Los Angeles, CA",USA,North America,34.062144,-118.225001,899.1184968054336
+Paul Ehrlich,Strehlen,Prussia,Europe,50.783333,17.066667,Göttingen,Germany,Europe,51.539385,9.913113,507.2239971449031
+Paul Ehrlich,Strehlen,Prussia,Europe,50.783333,17.066667,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,599.2913571374534
+Paul Greengard,"New York, NY",USA,North America,40.715758,-74.011300,"New York, NY",USA,North America,40.715758,-74.011300,0.0
+Paul J. Crutzen,Amsterdam,the Netherlands,Europe,52.369420,4.907108,Mainz,Germany,Europe,49.992514,8.249395,352.83296845781456
+Paul J. Flory,"Sterling, IL",USA,North America,41.799614,-89.695482,"Stanford, CA",USA,North America,37.424734,-122.163858,2812.9550277782646
+Paul Karrer,Moscow,Russia,Europe,55.741387,37.618892,Zurich,Switzerland,Europe,47.376909,8.541697,2199.3490199840426
+Paul Krugman,"New York, NY",USA,North America,40.715758,-74.011300,"Princeton, NJ",USA,North America,40.359783,-74.668268,68.26696835395157
+Paul M. Romer,"Denver, CO",USA,North America,39.739235,-104.984863,"New York, NY",USA,North America,40.715758,-74.011300,2624.694292955095
+Paul Modrich,"Raton, NM",USA,North America,36.903374,-104.439362,"Durham, NC",USA,North America,35.994033,-78.898619,2285.124303967691
+Paul Modrich,"Raton, NM",USA,North America,36.903374,-104.439362,"Durham, NC",USA,North America,35.994033,-78.898619,2285.124303967691
+Paul Müller,Olten,Switzerland,Europe,47.558109,7.587826,Basel,Switzerland,Europe,47.560153,7.587880,0.22729181288904107
+Paul R. Milgrom,"Detroit, MI",USA,North America,42.331667,-83.047500,"Stanford, CA",USA,North America,37.424734,-122.163858,3360.09202828757
+Paul Sabatier,Carcassonne,France,Europe,43.215833,2.351389,Toulouse,France,Europe,43.604154,1.442453,85.32990856538467
+Pavel A. Cherenkov,Novaya Chigla,Russia,Europe,51.223332,40.478054,Moscow,USSR,Europe,55.741387,37.618892,537.3524738429034
+Percy W. Bridgman,"Cambridge, MA",USA,North America,42.374024,-71.107306,"Cambridge, MA",USA,North America,42.374024,-71.107306,0.0
+Peter A. Diamond,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Peter Agre,"Northfield, MN",USA,North America,44.458202,-93.161156,"Baltimore, MD",USA,North America,39.291586,-76.625305,1484.3780801869189
+Peter C. Doherty,Brisbane,Australia,Oceania,-27.468967,153.023499,"Memphis, TN",USA,North America,35.149397,-90.040365,14060.360186051541
+Peter Debye,Maastricht,the Netherlands,Europe,50.866667,5.683333,Berlin,Germany,Europe,52.522265,13.406852,564.5777525616924
+Peter Debye,Maastricht,the Netherlands,Europe,50.866667,5.683333,Berlin,Germany,Europe,52.522265,13.406852,564.5777525616924
+Peter Grünberg,Plzen,Czechoslovakia,Europe,49.741389,13.382500,Jülich,Germany,Europe,50.921820,6.363146,516.5234714880105
+Peter Higgs,Newcastle upon Tyne,United Kingdom,Europe,54.973846,-1.613157,Edinburgh,United Kingdom,Europe,55.955709,-3.207405,148.71344608475692
+Peter Medawar,Rio de Janeiro,Brazil,South America,-22.911111,-43.205556,London,United Kingdom,Europe,51.510235,-0.120852,9254.621856306845
+Peter Mitchell,Mitcham,United Kingdom,Europe,51.400833,-0.151667,Bodmin,United Kingdom,Europe,50.471386,-4.720168,337.30629896390326
+Peyton Rous,"Baltimore, MD",USA,North America,39.291586,-76.625305,"New York, NY",USA,North America,40.715758,-74.011300,273.5254025272767
+Philip Dybvig,"Gainesville, FL",USA,North America,29.651968,-82.324982,"St. Louis, MO",USA,North America,38.628133,-90.212222,1231.9709461733314
+Philip S. Hench,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,"Rochester, MN",USA,North America,44.013985,-92.484608,1102.411870240169
+Philip W. Anderson,"Indianapolis, IN",USA,North America,39.768611,-86.158056,"Murray Hill, NJ",USA,North America,40.695294,-74.399829,1005.186690974011
+Philipp Lenard,Pressburg,Hungary,Europe,48.144722,17.112778,Kiel,Germany,Europe,54.323168,10.121556,842.2696915739988
+Phillip A. Sharp,"Falmouth, KY",USA,North America,38.676739,-84.330460,"Cambridge, MA",USA,North America,42.374024,-71.107306,1191.7529059594065
+Pierre Agostini,Tunis,French protectorate of Tunisia,Africa,36.810714,10.181034,"Columbus, OH",USA,North America,39.962222,-83.000556,7742.4824689744355
+Pierre Curie,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Pierre-Gilles de Gennes,Paris,France,Europe,48.860093,2.355954,Paris,France,Europe,48.860093,2.355954,0.0
+Pieter Zeeman,Zonnemaire,the Netherlands,Europe,51.713056,3.951111,Amsterdam,the Netherlands,Europe,52.369420,4.907108,98.16402733785716
+Polykarp Kusch,Blankenburg,Germany,Europe,51.816521,10.976386,"New York, NY",USA,North America,40.715758,-74.011300,6286.300705901885
+Pyotr Kapitsa,Kronshtadt,Russian Empire,Europe,59.990833,29.774722,Moscow,USSR,Europe,55.741387,37.618892,663.0691111823847
+Ragnar Frisch,Oslo,Norway,Europe,59.917165,10.750092,Oslo,Norway,Europe,59.917165,10.750092,0.0
+Ragnar Granit,Helsinki,Russian Empire,Europe,60.167874,24.958234,Stockholm,Sweden,Europe,59.325371,18.070794,398.2642944789031
+Rainer Weiss,Berlin,Germany,Europe,52.522265,13.406852,,,,,,
+Rainer Weiss,Berlin,Germany,Europe,52.522265,13.406852,"Cambridge, MA",USA,North America,42.374024,-71.107306,6099.716968061029
+Ralph Bunche,"Detroit, MI",USA,North America,42.331667,-83.047500,"Cambridge, MA",USA,North America,42.374024,-71.107306,982.97179926294
+Ralph M. Steinman,Montreal,Canada,North America,45.502786,-73.569058,"New York, NY",USA,North America,40.715758,-74.011300,533.0287555355611
+Randy W. Schekman,"St. Paul, MN",USA,North America,44.944167,-93.093611,"Berkeley, CA",USA,North America,37.871790,-122.274715,2547.193440261492
+Randy W. Schekman,"St. Paul, MN",USA,North America,44.944167,-93.093611,,USA,North America,,,
+Raymond Davis Jr.,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Philadelphia, PA",USA,North America,39.957132,-75.174342,198.7568535310705
+Reinhard Genzel,Bad Homburg vor der Höhe,Germany,Europe,50.228031,8.618313,Garching,Germany,Europe,48.250876,11.652813,311.687353969472
+Reinhard Genzel,Bad Homburg vor der Höhe,Germany,Europe,50.228031,8.618313,"Berkeley, CA",USA,North America,37.871790,-122.274715,9128.011193104956
+Reinhard Selten,Breslau,Germany,Europe,51.110000,17.032500,Bonn,Germany,Europe,50.735500,7.098415,699.2146398596979
+Renato Dulbecco,Catanzaro,Italy,Europe,38.909244,16.588033,London,United Kingdom,Europe,51.510235,-0.120852,1910.4459121093314
+Riccardo Giacconi,Genoa,Italy,Europe,44.405804,8.948925,"Washington, D.C.",USA,North America,38.899065,-77.036523,6847.459936698395
+Richard Axel,"New York, NY",USA,North America,40.715758,-74.011300,"New York, NY",USA,North America,40.715758,-74.011300,0.0
+Richard E. Smalley,"Akron, OH",USA,North America,41.073056,-81.517778,"Houston, TX",USA,North America,29.769539,-95.389817,1773.2352341562753
+Richard E. Taylor,"Medicine Hat, Alberta",Canada,North America,50.033333,-110.666667,"Stanford, CA",USA,North America,37.424734,-122.163858,1675.1785577822118
+Richard F. Heck,"Springfield, MA",USA,North America,42.101972,-72.585947,,USA,North America,,,
+Richard H. Thaler,"East Orange, NJ",USA,North America,40.767323,-74.204865,"Chicago, IL",USA,North America,41.876228,-87.638416,1130.264664375851
+Richard Henderson,Edinburgh,Scotland,Europe,55.955709,-3.207405,Cambridge,United Kingdom,Europe,52.194605,0.135092,472.2289342169961
+Richard J. Roberts,Derby,United Kingdom,Europe,52.921667,-1.476667,"Beverly, MA",USA,North America,42.558789,-70.877268,5118.701925006493
+Richard Kuhn,Vienna,Austria-Hungary,Europe,48.207646,16.372793,Heidelberg,Germany,Europe,49.399220,8.680522,580.1150218470559
+Richard Kuhn,Vienna,Austria-Hungary,Europe,48.207646,16.372793,Heidelberg,Germany,Europe,49.399220,8.680522,580.1150218470559
+Richard L.M. Synge,Liverpool,United Kingdom,Europe,53.409188,-2.981257,Bucksburn (Scotland),United Kingdom,Europe,57.178448,-2.174872,422.7341527865367
+Richard P. Feynman,"New York, NY",USA,North America,40.715758,-74.011300,"Pasadena, CA",USA,North America,34.150071,-118.142111,3930.9770780869117
+Richard R. Ernst,Winterthur,Switzerland,Europe,47.499172,8.729150,Zurich,Switzerland,Europe,47.376909,8.541697,19.614071370271315
+Richard R. Schrock,"Berne, IN",USA,North America,40.657825,-84.951912,"Cambridge, MA",USA,North America,42.374024,-71.107306,1169.9357701587435
+Richard Stone,London,United Kingdom,Europe,51.510235,-0.120852,Cambridge,United Kingdom,Europe,52.194605,0.135092,78.16149176892779
+Richard Willstätter,Karlsruhe,Germany,Europe,49.016667,8.400000,Berlin-Dahlem,Germany,Europe,52.453739,13.293130,515.0524505107203
+Richard Willstätter,Karlsruhe,Germany,Europe,49.016667,8.400000,Berlin,Germany,Europe,52.522265,13.406852,525.9042064305365
+Richard Zsigmondy,Vienna,Austrian Empire,Europe,48.207646,16.372793,Göttingen,Germany,Europe,51.539385,9.913113,593.7115038406571
+Rita Levi-Montalcini,Turin,Italy,Europe,45.071277,7.685561,Rome,Italy,Europe,41.902288,12.506464,525.2262995416165
+Roald Hoffmann,Zloczov,Poland,Europe,49.809226,24.901322,"Ithaca, NY",USA,North America,42.444089,-76.500950,7256.493204767517
+Robert A. Millikan,"Morrison, IL",USA,North America,41.807641,-89.961705,"Pasadena, CA",USA,North America,34.150071,-118.142111,2603.6674269089986
+Robert B. Laughlin,"Visalia, CA",USA,North America,36.330227,-119.292061,"Stanford, CA",USA,North America,37.424734,-122.163858,283.36536050236765
+Robert B. Wilson,"Geneva, NE",USA,North America,40.526389,-97.601944,"Stanford, CA",USA,North America,37.424734,-122.163858,2148.919369240696
+Robert B. Woodward,"Boston, MA",USA,North America,42.360420,-71.056810,"Cambridge, MA",USA,North America,42.374024,-71.107306,4.425484313276245
+Robert Bárány,Vienna,Austria,Europe,48.207646,16.372793,Vienna,Austria,Europe,48.207646,16.372793,0.0
+Robert C. Merton,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Robert C. Richardson,"Washington, D.C.",USA,North America,38.899065,-77.036523,"Ithaca, NY",USA,North America,42.444089,-76.500950,396.2597373909131
+Robert E. Lucas Jr.,"Yakima, WA",USA,North America,46.601944,-120.507778,"Chicago, IL",USA,North America,41.876228,-87.638416,2657.443244582869
+Robert F. Curl Jr.,"Alice, TX",USA,North America,27.750611,-98.070306,"Houston, TX",USA,North America,29.769539,-95.389817,344.3604539765662
+Robert F. Engle III,"Syracuse, NY",USA,North America,43.048122,-76.147423,"New York, NY",USA,North America,40.715758,-74.011300,313.8981995112955
+Robert F. Furchgott,"Charleston, SC",USA,North America,32.783333,-79.931944,"Brooklyn, NY",USA,North America,40.676379,-73.949819,1025.409303756507
+Robert G. Edwards,Batley,United Kingdom,Europe,53.716667,-1.635556,Cambridge,United Kingdom,Europe,52.194605,0.135092,206.99114226889404
+Robert H. Grubbs,"Possum Trot, KY",USA,North America,,,"Pasadena, CA",USA,North America,34.150071,-118.142111,
+Robert Hofstadter,"New York, NY",USA,North America,40.715758,-74.011300,"Stanford, CA",USA,North America,37.424734,-122.163858,4130.931594866662
+Robert Huber,Munich,Germany,Europe,48.134703,11.581995,Martinsried,Germany,Europe,48.108973,11.452365,10.066022299026958
+Robert J. Aumann,Frankfurt-on-the-Main,Germany,Europe,50.107886,8.691488,Jerusalem,Israel,Asia,31.767983,35.213809,2993.0897164049156
+Robert J. Lefkowitz,"New York, NY",USA,North America,40.715758,-74.011300,,USA,North America,,,
+Robert J. Lefkowitz,"New York, NY",USA,North America,40.715758,-74.011300,"Durham, NC",USA,North America,35.994033,-78.898619,675.9133538717928
+Robert J. Shiller,"Detroit, MI",USA,North America,42.331667,-83.047500,"New Haven, CT",USA,North America,41.307802,-72.932531,847.5339113245618
+Robert Koch,Clausthal,Germany,Europe,51.805000,10.335556,Berlin,Germany,Europe,52.522265,13.406852,224.78238279819448
+Robert M. Solow,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Cambridge, MA",USA,North America,42.374024,-71.107306,303.01371732186
+Robert Mundell,"Kingston, ON",Canada,North America,44.233333,-76.500000,"New York, NY",USA,North America,40.715758,-74.011300,441.03472956487707
+Robert S. Mulliken,"Newburyport, MA",USA,North America,42.812500,-70.877222,"Chicago, IL",USA,North America,41.876228,-87.638416,1382.7841179576646
+Robert Schrieffer,"Oak Park, IL",USA,North America,41.888333,-87.789444,"Philadelphia, PA",USA,North America,39.957132,-75.174342,1082.9729990875564
+Robert W. Fogel,"New York, NY",USA,North America,40.715758,-74.011300,"Chicago, IL",USA,North America,41.876228,-87.638416,1147.3968837037248
+Robert W. Holley,"Urbana, IL",USA,North America,40.110863,-88.206265,"Ithaca, NY",USA,North America,42.444089,-76.500950,1013.4074025521747
+Robert Woodrow Wilson,"Houston, TX",USA,North America,29.769539,-95.389817,"Holmdel, NJ",USA,North America,40.347720,-74.177040,2254.146510013152
+Roderick MacKinnon,"Burlington, MA",USA,North America,42.504818,-71.195610,"New York, NY",USA,North America,40.715758,-74.011300,307.48513407029037
+Roderick MacKinnon,"Burlington, MA",USA,North America,42.504818,-71.195610,,USA,North America,,,
+Rodney R. Porter,Newton-le-Willows,United Kingdom,Europe,53.450000,-2.633056,Oxford,United Kingdom,Europe,51.753363,-1.260979,210.43589760926375
+Roger B. Myerson,"Boston, MA",USA,North America,42.360420,-71.056810,"Chicago, IL",USA,North America,41.876228,-87.638416,1370.1311525034284
+Roger D. Kornberg,"St. Louis, MO",USA,North America,38.628133,-90.212222,"Stanford, CA",USA,North America,37.424734,-122.163858,2794.385102248801
+Roger Guillemin,Dijon,France,Europe,47.320903,5.041144,"San Diego, CA",USA,North America,32.730500,-117.166696,9432.2232911964
+Roger Penrose,Colchester,United Kingdom,Europe,51.888611,0.903611,Oxford,United Kingdom,Europe,51.753363,-1.260979,150.00302545316544
+Roger W. Sperry,"Hartford, CT",USA,North America,41.763333,-72.685000,"Pasadena, CA",USA,North America,34.150071,-118.142111,4034.8824006220484
+Roger Y. Tsien,"New York, NY",USA,North America,40.715758,-74.011300,"San Diego, CA",USA,North America,32.730500,-117.166696,3914.648639366753
+Roger Y. Tsien,"New York, NY",USA,North America,40.715758,-74.011300,,USA,North America,,,
+Rolf M. Zinkernagel,Basel,Switzerland,Europe,47.560153,7.587880,Zurich,Switzerland,Europe,47.376909,8.541697,74.73673761786812
+Ronald G.W. Norrish,Cambridge,United Kingdom,Europe,52.194605,0.135092,Cambridge,United Kingdom,Europe,52.194605,0.135092,0.0
+Ronald H. Coase,Willesden,United Kingdom,Europe,51.546667,-0.229444,"Chicago, IL",USA,North America,41.876228,-87.638416,6363.050293431409
+Ronald Ross,Almora,India,Asia,29.593431,79.654274,Liverpool,United Kingdom,Europe,53.409188,-2.981257,6954.889428876226
+Rosalyn Yalow,"New York, NY",USA,North America,40.715758,-74.011300,"Bronx, NY",USA,North America,40.845711,-73.870774,18.680845397178807
+Roy J. Glauber,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Rudolf Mössbauer,Munich,Germany,Europe,48.134703,11.581995,Munich,Germany,Europe,48.134703,11.581995,0.0
+Rudolf Mössbauer,Munich,Germany,Europe,48.134703,11.581995,"Pasadena, CA",USA,North America,34.150071,-118.142111,9615.236223888936
+Rudolph A. Marcus,Montreal,Canada,North America,45.502786,-73.569058,"Pasadena, CA",USA,North America,34.150071,-118.142111,3961.3849059906242
+Russell A. Hulse,"New York, NY",USA,North America,40.715758,-74.011300,"Princeton, NJ",USA,North America,40.359783,-74.668268,68.26696835395157
+Ryoji Noyori,Kobe,Japan,Asia,34.690167,135.195444,Nagoya,Japan,Asia,35.180679,136.918749,166.576881561564
+Salvador E. Luria,Turin,Italy,Europe,45.071277,7.685561,"Cambridge, MA",USA,North America,42.374024,-71.107306,6093.286570703787
+Samuel C.C. Ting,"Ann Arbor, MI",USA,North America,42.281061,-83.745758,"Cambridge, MA",USA,North America,42.374024,-71.107306,1040.8093125337589
+Santiago Ramón y Cajal,Petilla de Aragón,Spain,Europe,42.461576,-1.092493,Madrid,Spain,Europe,40.423203,-3.693965,313.84043976959714
+Satoshi Ōmura,Yamanashi Prefecture,Japan,Asia,35.664139,138.568417,Tokyo,Japan,Asia,35.680183,139.769373,108.74290968823122
+Saul Perlmutter,"Champaign-Urbana, IL",USA,North America,40.109383,-88.227287,"Berkeley, CA",USA,North America,37.871790,-122.274715,2942.216813806274
+Saul Perlmutter,"Champaign-Urbana, IL",USA,North America,40.109383,-88.227287,"Berkeley, CA",USA,North America,37.871790,-122.274715,2942.216813806274
+Selman A. Waksman,Priluka,Russian Empire,Europe,,,"New Brunswick, NJ",USA,North America,40.485758,-74.450925,
+Serge Haroche,Casablanca,Morocco,Africa,33.599167,-7.620000,Paris,France,Europe,48.860093,2.355954,1886.1707922160078
+Serge Haroche,Casablanca,Morocco,Africa,33.599167,-7.620000,Paris,France,Europe,48.860093,2.355954,1886.1707922160078
+Severo Ochoa,Luarca,Spain,Europe,43.542136,-6.535927,"New York, NY",USA,North America,40.715758,-74.011300,5430.728169054123
+Sheldon Glashow,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Shinya Yamanaka,Osaka,Japan,Asia,34.693756,135.501450,Kyoto,Japan,Asia,35.017709,135.761432,43.09093311967929
+Shinya Yamanaka,Osaka,Japan,Asia,34.693756,135.501450,"San Francisco, CA",USA,North America,37.774498,-122.429706,8660.82455036929
+Shuji Nakamura,Ikata,Japan,Asia,33.488611,132.354111,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,9389.47355934478
+Sidney Altman,Montreal,Canada,North America,45.502786,-73.569058,"New Haven, CT",USA,North America,41.307802,-72.932531,468.90422643352906
+Simon Kuznets,Pinsk,Russian Empire,Europe,52.115278,26.103056,"Cambridge, MA",USA,North America,42.374024,-71.107306,6873.538334852658
+Simon van der Meer,the Hague,the Netherlands,Europe,52.070359,4.300254,Geneva,Switzerland,Europe,46.203397,6.145957,666.173148702673
+Sin-Itiro Tomonaga,Kyoto,Japan,Asia,35.017709,135.761432,Tokyo,Japan,Asia,35.680183,139.769373,371.628349332516
+Sir Alexander Fleming,Lochfield,Scotland,Europe,,,London,United Kingdom,Europe,51.510235,-0.120852,
+Sir Arthur Lewis,Castries,British West Indies,North America,14.016667,-60.983333,"Princeton, NJ",USA,North America,40.359783,-74.668268,3209.4528248216498
+Sir Bernard Katz,Leipzig,Germany,Europe,51.339522,12.384015,London,United Kingdom,Europe,51.510235,-0.120852,868.9203295432079
+Sir Chandrasekhara Venkata Raman,Tiruchirappalli,India,Asia,12.979120,77.591301,Calcutta,India,Asia,22.579858,88.368101,1559.0421643218856
+Sir Charles Sherrington,London,United Kingdom,Europe,51.510235,-0.120852,Oxford,United Kingdom,Europe,51.753363,-1.260979,83.44733507377475
+Sir Cyril Hinshelwood,London,United Kingdom,Europe,51.510235,-0.120852,Oxford,United Kingdom,Europe,51.753363,-1.260979,83.44733507377475
+Sir Frank Macfarlane Burnet,Traralgon,Australia,Oceania,-38.195806,146.540000,Melbourne,Australia,Oceania,-37.797306,144.929422,148.2189006012652
+Sir Frederick Hopkins,Eastbourne,United Kingdom,Europe,50.766389,0.286111,Cambridge,United Kingdom,Europe,52.194605,0.135092,159.2455324190911
+Sir Gregory P. Winter,Leicester,United Kingdom,Europe,52.636139,-1.133079,Cambridge,United Kingdom,Europe,52.194605,0.135092,99.2923719306229
+Sir Harold Kroto,"Wisbech, Cambridgeshire ",United Kingdom,Europe,52.664167,0.160278,Brighton,United Kingdom,Europe,50.824420,-0.143821,205.7690243144764
+Sir Henry Dale,London,United Kingdom,Europe,51.510235,-0.120852,London,United Kingdom,Europe,51.510235,-0.120852,0.0
+Sir Howard Florey,Adelaide,Australia,Oceania,-34.926940,138.598792,Oxford,United Kingdom,Europe,51.753363,-1.260979,16328.073473560173
+Sir J. Fraser Stoddart,Edinburgh,United Kingdom,Europe,55.955709,-3.207405,"Evanston, IL",USA,North America,42.045791,-87.686963,5964.747646178741
+Sir James W. Black,Uddingston,Scotland,Europe,55.818958,-4.082486,London,United Kingdom,Europe,51.510235,-0.120852,546.1863670737039
+Sir John B. Gurdon,Dippenhall,United Kingdom,Europe,51.212059,-0.835956,Cambridge,United Kingdom,Europe,52.194605,0.135092,128.282808340617
+Sir John Eccles,Melbourne,Australia,Oceania,-37.797306,144.929422,Canberra,Australia,Oceania,-35.280192,149.130915,468.4932309424324
+Sir Martin J. Evans,Stroud,United Kingdom,Europe,51.745422,-2.219861,Cardiff,United Kingdom,Europe,51.484043,-3.169346,71.90901631675023
+Sir Nevill F. Mott,Leeds,United Kingdom,Europe,53.797500,-1.543611,Cambridge,United Kingdom,Europe,52.194605,0.135092,210.99298205660867
+Sir Paul Nurse,Norwich,United Kingdom,Europe,52.628611,1.292778,London,United Kingdom,Europe,51.510235,-0.120852,157.73299149464077
+Sir Peter J. Ratcliffe,Lancashire,United Kingdom,Europe,53.802814,-2.628226,Oxford,United Kingdom,Europe,51.753363,-1.260979,246.01057473955134
+Sir Peter J. Ratcliffe,Lancashire,United Kingdom,Europe,53.802814,-2.628226,London,United Kingdom,Europe,51.510235,-0.120852,306.3440418404615
+Sir Peter Mansfield,London,United Kingdom,Europe,51.510235,-0.120852,Nottingham,United Kingdom,Europe,52.954408,-1.154957,175.5366983514785
+Sir Robert Robinson,"Rufford, near Chesterfield",United Kingdom,Europe,,,Oxford,United Kingdom,Europe,51.753363,-1.260979,
+Sir William Ramsay,Glasgow,Scotland,Europe,55.861111,-4.250000,London,United Kingdom,Europe,51.510235,-0.120852,555.5758334742719
+Stanford Moore,"Chicago, IL",USA,North America,41.876228,-87.638416,"New York, NY",USA,North America,40.715758,-74.011300,1147.3968837037248
+Stanley B. Prusiner,"Des Moines, IA",USA,North America,41.591030,-93.604668,"San Francisco, CA",USA,North America,37.774498,-122.429706,2496.862320132939
+Stanley Cohen,"Brooklyn, NY",USA,North America,40.676379,-73.949819,"Nashville, TN",USA,North America,36.158474,-86.756442,1224.1358430905516
+Stefan W. Hell,Arad,Romania,Europe,46.166667,21.316667,Göttingen,Germany,Europe,51.539385,9.913113,1026.3978268076444
+Stefan W. Hell,Arad,Romania,Europe,46.166667,21.316667,Heidelberg,Germany,Europe,49.399220,8.680522,1011.3084874229655
+Steven Chu,"St. Louis, MO",USA,North America,38.628133,-90.212222,"Stanford, CA",USA,North America,37.424734,-122.163858,2794.385102248801
+Steven Weinberg,"New York, NY",USA,North America,40.715758,-74.011300,"Cambridge, MA",USA,North America,42.374024,-71.107306,304.32311582778846
+Subrahmanyan Chandrasekhar,Lahore,India,Asia,31.532010,74.352919,"Chicago, IL",USA,North America,41.876228,-87.638416,11670.25089837584
+Sune K. Bergström,Stockholm,Sweden,Europe,59.325371,18.070794,Stockholm,Sweden,Europe,59.325371,18.070794,0.0
+Susumu Tonegawa,Nagoya,Japan,Asia,35.180679,136.918749,"Cambridge, MA",USA,North America,42.374024,-71.107306,10956.942723130116
+Svante Arrhenius,Vik,Sweden,Europe,,,Stockholm,Sweden,Europe,59.325371,18.070794,
+Svante Pääbo,Stockholm,Sweden,Europe,59.325371,18.070794,Leipzig,Germany,Europe,51.339522,12.384015,958.6785512691425
+Svante Pääbo,Stockholm,Sweden,Europe,59.325371,18.070794,Okinawa,Japan,Asia,26.212222,127.680833,8569.399475096765
+Sydney Brenner,Germiston,South Africa,Africa,-26.234800,28.176600,"Berkeley, CA",USA,North America,37.871790,-122.274715,16966.380256207427
+Syukuro Manabe,"Shingu, Ehime",Japan,Asia,,,"Princeton, NJ",USA,North America,40.359783,-74.668268,
+Tadeus Reichstein,Wloclawek,Poland,Europe,52.647633,19.068357,Basel,Switzerland,Europe,47.560153,7.587880,995.5522715331435
+Takaaki Kajita,Higashimatsuyama,Japan,Asia,36.042152,139.399796,Kashiwa,Japan,Asia,35.867583,139.975750,55.45258819170899
+Tasuku Honjo,Kyoto,Japan,Asia,35.017709,135.761432,Kyoto,Japan,Asia,35.017709,135.761432,0.0
+The Svedberg,Fleräng,Sweden,Europe,,,Uppsala,Sweden,Europe,59.858503,17.638748,
+Theodor Kocher,Bern,Switzerland,Europe,46.948471,7.445402,Bern,Switzerland,Europe,46.948471,7.445402,0.0
+Theodor W. Hänsch,Heidelberg,Germany,Europe,49.399220,8.680522,Garching,Germany,Europe,48.250876,11.652813,252.8371471857144
+Theodor W. Hänsch,Heidelberg,Germany,Europe,49.399220,8.680522,Munich,Germany,Europe,48.134703,11.581995,255.44918340929962
+Theodore W. Richards,"Germantown, PA",USA,North America,40.043611,-75.181944,"Cambridge, MA",USA,North America,42.374024,-71.107306,428.5931937448868
+Theodore W. Schultz,"Arlington, SD",USA,North America,44.364444,-97.134722,"Chicago, IL",USA,North America,41.876228,-87.638416,820.177214530581
+Thomas A. Steitz,"Milwaukee, WI",USA,North America,43.050000,-87.950000,"New Haven, CT",USA,North America,41.307802,-72.932531,1253.96725226702
+Thomas A. Steitz,"Milwaukee, WI",USA,North America,43.050000,-87.950000,,USA,North America,,,
+Thomas C. Schelling,"Oakland, CA",USA,North America,37.800000,-122.250000,"College Park, MD",USA,North America,38.989633,-76.936918,3919.2997311976405
+Thomas C. Südhof,Göttingen,Germany,Europe,51.539385,9.913113,"Stanford, CA",USA,North America,37.424734,-122.163858,9104.656354923129
+Thomas C. Südhof,Göttingen,Germany,Europe,51.539385,9.913113,,USA,North America,,,
+Thomas H. Morgan,"Lexington, KY",USA,North America,38.029722,-84.494722,"Pasadena, CA",USA,North America,34.150071,-118.142111,3043.97050574695
+Thomas H. Weller,"Ann Arbor, MI",USA,North America,42.281061,-83.745758,"Boston, MA",USA,North America,42.360420,-71.056810,1045.0587255813466
+Thomas J. Sargent,"Pasadena, CA",USA,North America,34.150071,-118.142111,"New York, NY",USA,North America,40.715758,-74.011300,3930.9770780869117
+Thomas R. Cech,"Chicago, IL",USA,North America,41.876228,-87.638416,"Boulder, CO",USA,North America,40.014316,-105.269847,1496.2641313765682
+Tim Hunt,Neston,United Kingdom,Europe,53.290584,-3.069102,London,United Kingdom,Europe,51.510235,-0.120852,281.93872736390546
+Tjalling C. Koopmans,'s Graveland,the Netherlands,Europe,52.243889,5.121111,"New Haven, CT",USA,North America,41.307802,-72.932531,5786.308693583327
+Tomas Lindahl,Stockholm,Sweden,Europe,59.325371,18.070794,Hertfordshire,United Kingdom,Europe,,,
+Tomas Lindahl,Stockholm,Sweden,Europe,59.325371,18.070794,Hertfordshire,United Kingdom,Europe,,,
+Torsten N. Wiesel,Uppsala,Sweden,Europe,59.858503,17.638748,"Boston, MA",USA,North America,42.360420,-71.056810,5995.004415915098
+Toshihide Maskawa,Nagoya,Japan,Asia,35.180679,136.918749,Kyoto,Japan,Asia,35.017709,135.761432,107.05877398329193
+Toshihide Maskawa,Nagoya,Japan,Asia,35.180679,136.918749,Kyoto,Japan,Asia,35.017709,135.761432,107.05877398329193
+Trygve Haavelmo,Skedsmo,Norway,Europe,59.982778,11.046389,Oslo,Norway,Europe,59.917165,10.750092,18.10011514726513
+Tsung-Dao Lee,Shanghai,China,Asia,31.234410,121.490343,"New York, NY",USA,North America,40.715758,-74.011300,11880.560693713247
+Tu Youyou,Zhejiang Ningbo,China,Asia,29.868336,121.543990,Beijing,China,Asia,39.904200,116.407396,1207.7450270382494
+Ulf von Euler,Stockholm,Sweden,Europe,59.325371,18.070794,Stockholm,Sweden,Europe,59.325371,18.070794,0.0
+Val Fitch,"Merriman, NE",USA,North America,42.919723,-101.700703,"Princeton, NJ",USA,North America,40.359783,-74.668268,2260.2378376021616
+Venkatraman Ramakrishnan,"Chidambaram, Tamil Nadu",India,Asia,11.398194,79.695359,Cambridge,United Kingdom,Europe,52.194605,0.135092,8303.795061048686
+Vernon L. Smith,"Wichita, KS",USA,North America,37.692236,-97.337545,"Fairfax, VA",USA,North America,38.845963,-77.302791,1754.3968442370135
+Victor F. Hess,Peggau,Austria,Europe,47.176373,15.329940,Innsbruck,Austria,Europe,47.269820,11.404881,297.4294164234707
+Victor Grignard,Cherbourg,France,Europe,49.633731,-1.622137,Nancy,France,Europe,48.691336,6.185111,578.6944112079926
+Vincent du Vigneaud,"Chicago, IL",USA,North America,41.876228,-87.638416,"Ithaca, NY",USA,North America,42.444089,-76.500950,921.9232227709819
+Vitaly L. Ginzburg,Moscow,Russia,Europe,55.741387,37.618892,Moscow,Russia,Europe,55.741387,37.618892,0.0
+Vladimir Prelog,Sarajevo,Austria-Hungary,Europe,43.856076,18.411485,Zurich,Switzerland,Europe,47.376909,8.541697,862.6811036566095
+Walter Gilbert,"Boston, MA",USA,North America,42.360420,-71.056810,"Cambridge, MA",USA,North America,42.374024,-71.107306,4.425484313276245
+Walter H. Brattain,Amoy,China,Asia,24.479722,118.081944,"Murray Hill, NJ",USA,North America,40.695294,-74.399829,12674.81586144075
+Walter Hess,Frauenfeld,Switzerland,Europe,47.553600,8.898754,Zurich,Switzerland,Europe,47.376909,8.541697,33.325244232123886
+Walter Kohn,Vienna,Austria,Europe,48.207646,16.372793,"Santa Barbara, CA",USA,North America,34.419237,-119.702479,9868.542954667193
+Walther Bothe,Oranienburg,Germany,Europe,52.752674,13.239452,Heidelberg,Germany,Europe,49.399220,8.680522,490.986911205619
+Walther Bothe,Oranienburg,Germany,Europe,52.752674,13.239452,Heidelberg,Germany,Europe,49.399220,8.680522,490.986911205619
+Walther Nernst,Briesen,Prussia,Europe,53.283333,18.950000,Berlin,Germany,Europe,52.522265,13.406852,382.3749235539893
+Wassily Leontief,St. Petersburg,Russia,Europe,59.956651,30.333547,"Cambridge, MA",USA,North America,42.374024,-71.107306,6616.408200462055
+Wendell M. Stanley,"Ridgeville, IN",USA,North America,40.288954,-85.029245,"Princeton, NJ",USA,North America,40.359783,-74.668268,880.0948217372317
+Werner Arber,Gränichen,Switzerland,Europe,47.363636,8.092984,Basel,Switzerland,Europe,47.560153,7.587880,43.90599246144369
+Werner Forssmann,Berlin,Germany,Europe,52.522265,13.406852,Mainz,Germany,Europe,49.992514,8.249395,456.79582615529847
+Werner Heisenberg,Würzburg,Germany,Europe,49.791282,9.953253,Leipzig,Germany,Europe,51.339522,12.384015,243.5366306181192
+Wilhelm Conrad Röntgen,Lennep,Prussia,Europe,51.178742,7.189696,Munich,Germany,Europe,48.134703,11.581995,463.74240240410137
+Wilhelm Ostwald,Riga,Russian Empire,Europe,56.966035,24.106409,Leipzig,Germany,Europe,51.339522,12.384015,987.0527662984865
+Wilhelm Wien,Gaffken,Prussia,Europe,,,Würzburg,Germany,Europe,49.791282,9.953253,
+Willard F. Libby,"Grand Valley, CO",USA,North America,,,"Los Angeles, CA",USA,North America,34.062144,-118.225001,
+Willard S. Boyle,"Amherst, NS",Canada,North America,45.830032,-64.205261,"Murray Hill, NJ",USA,North America,40.695294,-74.399829,1004.0029480901075
+Willem Einthoven,Semarang,"Java, Dutch East Indies",Asia,-7.004978,110.438095,Leiden,the Netherlands,Europe,52.160787,4.495746,11706.629116419344
+William A. Fowler,"Pittsburgh, PA",USA,North America,40.440136,-80.008661,"Pasadena, CA",USA,North America,34.150071,-118.142111,3424.8299253315504
+William B. Shockley,London,United Kingdom,Europe,51.510235,-0.120852,"Mountain View, CA",USA,North America,37.380356,-122.077502,8659.39232308288
+William Bragg,Wigton,United Kingdom,Europe,54.825544,-3.161231,London,United Kingdom,Europe,51.510235,-0.120852,421.1815558062496
+William C. Campbell,Ramelton,Ireland,Europe,55.035556,-7.645556,"Madison, NJ",USA,North America,40.759823,-74.417097,5024.761313381319
+William D. Nordhaus,"Albuquerque, NM",USA,North America,35.084491,-106.651137,"New Haven, CT",USA,North America,41.307802,-72.932531,3013.1219045329703
+William D. Phillips,"Wilkes-Barre, PA",USA,North America,41.244444,-75.878056,"Gaithersburg, MD",USA,North America,39.143854,-77.201504,259.03454283379904
+William E. Moerner,"Pleasanton, CA",USA,North America,37.662431,-121.874679,"Stanford, CA",USA,North America,37.424734,-122.163858,36.729879770265434
+William F. Giauque,Niagara Falls,Canada,North America,43.116667,-79.066667,"Berkeley, CA",USA,North America,37.871790,-122.274715,3667.6519628757296
+William F. Sharpe,"Boston, MA",USA,North America,42.360420,-71.056810,"Stanford, CA",USA,North America,37.424734,-122.163858,4339.31046121854
+William G. Kaelin Jr,"New York, NY",USA,North America,40.715758,-74.011300,"Boston, MA",USA,North America,42.360420,-71.056810,306.8059225329032
+William G. Kaelin Jr,"New York, NY",USA,North America,40.715758,-74.011300,"Chevy Chase, MD",USA,North America,38.994934,-77.077369,324.53699477490295
+William G. Kaelin Jr,"New York, NY",USA,North America,40.715758,-74.011300,"Boston, MA",USA,North America,42.360420,-71.056810,306.8059225329032
+William G. Kaelin Jr,"New York, NY",USA,North America,40.715758,-74.011300,"Boston, MA",USA,North America,42.360420,-71.056810,306.8059225329032
+William H. Stein,"New York, NY",USA,North America,40.715758,-74.011300,"New York, NY",USA,North America,40.715758,-74.011300,0.0
+William Lipscomb,"Cleveland, OH",USA,North America,41.496386,-81.710675,"Cambridge, MA",USA,North America,42.374024,-71.107306,884.1869968087093
+William P. Murphy,"Stoughton, WI",USA,North America,42.916946,-89.217894,"Cambridge, MA",USA,North America,42.374024,-71.107306,1483.5716433893735
+William P. Murphy,"Stoughton, WI",USA,North America,42.916946,-89.217894,"Boston, MA",USA,North America,42.360420,-71.056810,1487.908839780063
+William Vickrey,"Victoria, BC",Canada,North America,48.428366,-123.364544,"New York, NY",USA,North America,40.715758,-74.011300,3941.0854097426773
+Willis E. Lamb,"Los Angeles, CA",USA,North America,34.062144,-118.225001,"Stanford, CA",USA,North America,37.424734,-122.163858,515.7814366168507
+Wolfgang Ketterle,Heidelberg,West Germany,Europe,49.399220,8.680522,"Cambridge, MA",USA,North America,42.374024,-71.107306,5948.48050199815
+Wolfgang Paul,Lorenzkirch,Germany,Europe,,,Bonn,Germany,Europe,50.735500,7.098415,
+Wolfgang Pauli,Vienna,Austria,Europe,48.207646,16.372793,"Princeton, NJ",USA,North America,40.359783,-74.668268,6882.68190022999
+Yoichiro Nambu,Tokyo,Japan,Asia,35.680183,139.769373,"Chicago, IL",USA,North America,41.876228,-87.638416,10158.08730714013
+Yoshinori Ohsumi,Fukuoka,Japan,Asia,33.590355,130.401716,Tokyo,Japan,Asia,35.680183,139.769373,889.2594481414069
+Yuan T. Lee,Hsinchu,Taiwan,Asia,24.814166,120.966649,"Berkeley, CA",USA,North America,37.871790,-122.274715,10440.757489369076
+Yves Chauvin,Menin,Belgium,Europe,50.795556,3.121667,Rueil-Malmaison,France,Europe,48.880993,2.176074,223.54418077202496
+Zhores Alferov,"Vitebsk, Belorussia",USSR,Europe,55.184806,30.201622,St. Petersburg,Russia,Europe,59.956651,30.333547,531.4976832499003
