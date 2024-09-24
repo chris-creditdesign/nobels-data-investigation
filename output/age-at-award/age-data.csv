@@ -1,0 +1,643 @@
+name,age,category
+Lawrence Bragg,25,Physics
+Tsung-Dao Lee,31,Physics
+Carl D. Anderson,31,Physics
+Werner Heisenberg,31,Physics
+Paul A.M. Dirac,31,Physics
+Rudolf Mössbauer,32,Physics
+Frederick G. Banting,32,Physiology or Medicine
+Brian D. Josephson,33,Physics
+Joshua Lederberg,33,Physiology or Medicine
+Donald A. Glaser,34,Physics
+James Watson,34,Physiology or Medicine
+Frédéric Joliot,35,Chemistry
+Arthur H. Compton,35,Physics
+Max von Laue,35,Physics
+Guglielmo Marconi,35,Physics
+Chen Ning Yang,35,Physics
+Marie Curie,36,Physics
+Archibald V. Hill,36,Physiology or Medicine
+Konstantin Novoselov,36,Physics
+Adolf Butenandt,36,Chemistry
+David Baltimore,37,Physiology or Medicine
+J. Georg Bednorz,37,Physics
+Niels Bohr,37,Physics
+Pieter Zeeman,37,Physics
+Louis de Broglie,37,Physics
+Enrico Fermi,37,Physics
+Ernest Rutherford,37,Chemistry
+Manne Siegbahn,38,Physics
+Richard L.M. Synge,38,Chemistry
+Otto Meyerhof,38,Physiology or Medicine
+Georges J.F. Köhler,38,Physiology or Medicine
+Robert Bárány,38,Physiology or Medicine
+Richard Kuhn,38,Chemistry
+Gustav Hertz,38,Physics
+Frederick C. Robbins,38,Physiology or Medicine
+Irène Joliot-Curie,38,Chemistry
+Ernest Lawrence,38,Physics
+Alexis Carrel,39,Physiology or Medicine
+Ernst B. Chain,39,Physiology or Medicine
+Thomas H. Weller,39,Physiology or Medicine
+Gerd Binnig,39,Physics
+Eric Cornell,39,Physics
+Owen Chamberlain,39,Physics
+Glenn T. Seaborg,39,Chemistry
+Hartmut Michel,40,Chemistry
+E. M. Purcell,40,Physics
+Murray Gell-Mann,40,Physics
+Charles Glover Barkla,40,Physics
+Frederick Sanger,40,Chemistry
+Manfred Eigen,40,Chemistry
+Samuel C.C. Ting,40,Physics
+Nicolay G. Basov,41,Physics
+Harold C. Urey,41,Chemistry
+Robert Schrieffer,41,Physics
+Marshall W. Nirenberg,41,Physiology or Medicine
+Victor Grignard,41,Chemistry
+Arthur Kornberg,41,Physiology or Medicine
+Howard M. Temin,41,Physiology or Medicine
+Adam G. Riess,41,Physics
+Robert Woodrow Wilson,42,Physics
+Sir Chandrasekhara Venkata Raman,42,Physics
+The Svedberg,42,Chemistry
+Thomas R. Cech,42,Chemistry
+Klaus von Klitzing,42,Physics
+William P. Murphy,42,Physiology or Medicine
+Willis E. Lamb,42,Physics
+Wendell M. Stanley,42,Chemistry
+Archer J.P. Martin,42,Chemistry
+Niels Ryberg Finsen,42,Physiology or Medicine
+Hideki Yukawa,42,Physics
+Albert Einstein,42,Physics
+Leon N. Cooper,42,Physics
+Richard Willstätter,43,Chemistry
+Russell A. Hulse,43,Physics
+Koichi Tanaka,43,Chemistry
+Gustaf Dalén,43,Physics
+Edgar Adrian,43,Physiology or Medicine
+Philipp Lenard,43,Physics
+James Franck,43,Physics
+Gerald M. Edelman,43,Physiology or Medicine
+Michael S. Brown,44,Physiology or Medicine
+Svante Arrhenius,44,Chemistry
+Pierre Curie,44,Physics
+Roald Hoffmann,44,Chemistry
+Albert Szent-Györgyi,44,Physiology or Medicine
+Frederick Soddy,44,Chemistry
+Wolfgang Ketterle,44,Physics
+James Chadwick,44,Physics
+Gerhard Domagk,44,Physiology or Medicine
+Edwin M. McMillan,44,Chemistry
+Ivar Giaever,44,Physics
+Brian P. Schmidt,44,Physics
+Polykarp Kusch,44,Physics
+François Jacob,45,Physiology or Medicine
+John C. Kendrew,45,Chemistry
+Maurice Wilkins,45,Physiology or Medicine
+Ronald Ross,45,Physiology or Medicine
+Johannes Stark,45,Physics
+Johann Deisenhofer,45,Chemistry
+Francis W. Aston,45,Chemistry
+Wolfgang Pauli,45,Physics
+Joseph L. Goldstein,45,Physiology or Medicine
+Burton Richter,45,Physics
+George Paget Thomson,45,Physics
+Peter Medawar,45,Physiology or Medicine
+Arno Penzias,45,Physics
+Erwin Schrödinger,46,Physics
+Francis Crick,46,Physiology or Medicine
+Kenneth G. Wilson,46,Physics
+H. Gobind Khorana,46,Physiology or Medicine
+Corneille Heymans,46,Physiology or Medicine
+August Krogh,46,Physiology or Medicine
+Theodore W. Richards,46,Chemistry
+Arne Tiselius,46,Chemistry
+Isidor Isaac Rabi,46,Physics
+Craig C. Mello,46,Physiology or Medicine
+Robert Hofstadter,46,Physics
+Alfred Werner,46,Chemistry
+Andrew Huxley,46,Physiology or Medicine
+Steven Weinberg,46,Physics
+Robert W. Holley,46,Physiology or Medicine
+William B. Shockley,46,Physics
+Erwin Neher,47,Physiology or Medicine
+George Porter,47,Chemistry
+Julian Schwinger,47,Physics
+Richard P. Feynman,47,Physics
+Emil von Behring,47,Physiology or Medicine
+Friedrich Bergius,47,Chemistry
+Felix Bloch,47,Physics
+Sheldon Glashow,47,Physics
+Eduard Buchner,47,Chemistry
+John Macleod,47,Physiology or Medicine
+Hamilton O. Smith,47,Physiology or Medicine
+Roderick MacKinnon,47,Chemistry
+Cecil Powell,47,Physics
+Sir Howard Florey,47,Physiology or Medicine
+Andrew Z. Fire,47,Physiology or Medicine
+Wilhelm Wien,47,Physics
+Bengt I. Samuelsson,48,Physiology or Medicine
+Ernest T.S. Walton,48,Physics
+Aleksandr M. Prokhorov,48,Physics
+John Bardeen,48,Physics
+Eric F. Wieschaus,48,Physiology or Medicine
+Max F. Perutz,48,Chemistry
+Otto Warburg,48,Physiology or Medicine
+Susumu Tonegawa,48,Physiology or Medicine
+Paul Karrer,48,Chemistry
+Jean-Marie Lehn,48,Chemistry
+Walter Gilbert,48,Chemistry
+Robert B. Woodward,48,Chemistry
+Leo Esaki,48,Physics
+Carol W. Greider,48,Physiology or Medicine
+Kary B. Mullis,48,Chemistry
+Edward Tatum,48,Physiology or Medicine
+Robert B. Laughlin,48,Physics
+Kurt Alder,48,Chemistry
+Henrik Dam,48,Physiology or Medicine
+Jacobus H. van 't Hoff,49,Chemistry
+Werner Arber,49,Physiology or Medicine
+James Cronin,49,Physics
+Owen Willans Richardson,49,Physics
+Bert Sakmann,49,Physiology or Medicine
+Allvar Gullstrand,49,Physiology or Medicine
+Steven Chu,49,Physics
+Ben R. Mottelson,49,Physics
+J.J. Thomson,49,Physics
+Charles H. Townes,49,Physics
+Paul Müller,49,Physiology or Medicine
+George R. Minot,49,Physiology or Medicine
+Horst L. Störmer,49,Physics
+Hendrik A. Lorentz,49,Physics
+Jules Bordet,49,Physiology or Medicine
+Harold E. Varmus,49,Physiology or Medicine
+Alan Hodgkin,49,Physiology or Medicine
+William D. Phillips,49,Physics
+Hans Fischer,49,Chemistry
+Phillip A. Sharp,49,Physiology or Medicine
+Artturi Virtanen,50,Chemistry
+Henri Becquerel,50,Physics
+Shinya Yamanaka,50,Physiology or Medicine
+Carlo Rubbia,50,Physics
+Heinrich Wieland,50,Chemistry
+Sidney Altman,50,Chemistry
+Emil Fischer,50,Chemistry
+Melvin Calvin,50,Chemistry
+Fritz Haber,50,Chemistry
+Edward A. Doisy,50,Physiology or Medicine
+Yuan T. Lee,50,Chemistry
+Daniel Nathans,50,Physiology or Medicine
+Carl Wieman,50,Physics
+Il´ja M. Frank,50,Physics
+Daniel Bovet,50,Physiology or Medicine
+Richard J. Roberts,50,Physiology or Medicine
+Antony Hewish,50,Physics
+Lord Todd,50,Chemistry
+Adolf Windaus,51,Chemistry
+Derek Barton,51,Chemistry
+May-Britt Moser,51,Physiology or Medicine
+Willard F. Libby,51,Chemistry
+Stefan W. Hell,51,Chemistry
+Emmanuelle Charpentier,51,Chemistry
+Carl Cori,51,Physiology or Medicine
+Andrew V. Schally,51,Physiology or Medicine
+Patrick M.S. Blackett,51,Physics
+Douglas D. Osheroff,51,Physics
+Irving Langmuir,51,Chemistry
+Baruch S. Blumberg,51,Physiology or Medicine
+Robert Huber,51,Chemistry
+Gerty Cori,51,Physiology or Medicine
+Hugo Theorell,52,Physiology or Medicine
+Peter Debye,52,Chemistry
+Geoffrey Wilkinson,52,Chemistry
+Rolf M. Zinkernagel,52,Physiology or Medicine
+Sir Paul Nurse,52,Physiology or Medicine
+Joseph H. Taylor Jr.,52,Physics
+Sir William Ramsay,52,Chemistry
+Leopold Ruzicka,52,Chemistry
+Saul Perlmutter,52,Physics
+Mario J. Molina,52,Chemistry
+Edvard I. Moser,52,Physiology or Medicine
+Konrad Bloch,52,Physiology or Medicine
+Max Theiler,52,Physiology or Medicine
+Andre Geim,52,Physics
+Werner Forssmann,52,Physiology or Medicine
+Didier Queloz,53,Physics
+Victor F. Hess,53,Physics
+Linus Pauling,53,Chemistry
+David W.C. MacMillan,53,Chemistry
+Ahmed Zewail,53,Chemistry
+Philip W. Anderson,53,Physics
+Hans Krebs,53,Physiology or Medicine
+Abdus Salam,53,Physics
+Heinrich Rohrer,53,Physics
+Tadeus Reichstein,53,Physiology or Medicine
+Bruce A. Beutler,53,Physiology or Medicine
+Gerardus 't Hooft,53,Physics
+Alfred G. Gilman,53,Physiology or Medicine
+Christiane Nüsslein-Volhard,53,Physiology or Medicine
+J. Michael Bishop,53,Physiology or Medicine
+Frank Wilczek,53,Physics
+D. Carleton Gajdusek,53,Physiology or Medicine
+Richard E. Smalley,53,Chemistry
+William Bragg,53,Physics
+Aage N. Bohr,53,Physics
+Roger Guillemin,53,Physiology or Medicine
+Benjamin List,53,Chemistry
+Feodor Lynen,53,Physiology or Medicine
+Walter H. Brattain,54,Physics
+Ardem Patapoutian,54,Physiology or Medicine
+John Cockcroft,54,Physics
+Hiroshi Amano,54,Physics
+Lev Landau,54,Physics
+Paul Berg,54,Chemistry
+William F. Giauque,54,Chemistry
+Vincent du Vigneaud,54,Chemistry
+Albert A. Michelson,54,Physics
+Paul Ehrlich,54,Physiology or Medicine
+Norman Haworth,54,Chemistry
+Dudley R. Herschbach,54,Chemistry
+Fritz Pregl,54,Chemistry
+Eric Betzig,54,Chemistry
+Emilio Segrè,54,Physics
+Santiago Ramón y Cajal,54,Physiology or Medicine
+Barry J. Marshall,54,Physiology or Medicine
+Severo Ochoa,54,Physiology or Medicine
+Fritz Lipmann,54,Physiology or Medicine
+Philip S. Hench,54,Physiology or Medicine
+Dorothy Crowfoot Hodgkin,54,Chemistry
+Pavel A. Cherenkov,54,Physics
+Henri Moissan,54,Chemistry
+Peter Agre,54,Chemistry
+Stanley B. Prusiner,55,Physiology or Medicine
+John R. Vane,55,Physiology or Medicine
+David H. Hubel,55,Physiology or Medicine
+George Beadle,55,Physiology or Medicine
+Jacques Monod,55,Physiology or Medicine
+Rodney R. Porter,55,Physiology or Medicine
+Ernst Otto Fischer,55,Chemistry
+Otto Stern,55,Physics
+John H. Northrop,55,Chemistry
+Allan M. Cormack,55,Physiology or Medicine
+Ivan Pavlov,55,Physiology or Medicine
+Andrea Ghez,55,Physics
+Edward V. Appleton,55,Physics
+H. David Politzer,55,Physics
+H. Robert Horvitz,55,Physiology or Medicine
+Hermann J. Muller,55,Physiology or Medicine
+Robert A. Millikan,55,Physics
+Melvin Schwartz,56,Physics
+Wilhelm Ostwald,56,Chemistry
+Jennifer A. Doudna,56,Chemistry
+Clinton Davisson,56,Physics
+Roger Y. Tsien,56,Chemistry
+Jean Baptiste Perrin,56,Physics
+Wilhelm Conrad Röntgen,56,Physics
+John E. Walker,56,Chemistry
+Christian Anfinsen,56,Chemistry
+Carolyn Bertozzi,56,Chemistry
+George H. Whipple,56,Physiology or Medicine
+Herbert S. Gasser,56,Physiology or Medicine
+Peter C. Doherty,56,Physiology or Medicine
+"Earl W. Sutherland, Jr.",56,Physiology or Medicine
+Aaron Klug,56,Chemistry
+Hans von Euler-Chelpin,56,Chemistry
+Rosalyn Yalow,56,Physiology or Medicine
+J. Hans D. Jensen,56,Physics
+Martin Ryle,56,Physics
+Walther Nernst,56,Chemistry
+Takaaki Kajita,56,Physics
+Linda B. Buck,57,Physiology or Medicine
+William Lipscomb,57,Chemistry
+Sir Harold Kroto,57,Chemistry
+Aaron Ciechanover,57,Chemistry
+Louis J. Ignarro,57,Physiology or Medicine
+John F. Enders,57,Physiology or Medicine
+Luis Alvarez,57,Physics
+Albrecht Kossel,57,Physiology or Medicine
+John C. Polanyi,57,Chemistry
+Maria Goeppert Mayer,57,Physics
+Salvador E. Luria,57,Physiology or Medicine
+Val Fitch,57,Physics
+Christian de Duve,57,Physiology or Medicine
+Venkatraman Ramakrishnan,57,Chemistry
+Torsten N. Wiesel,57,Physiology or Medicine
+Thomas C. Südhof,57,Physiology or Medicine
+Brian Kobilka,57,Chemistry
+Carl Bosch,57,Chemistry
+Jack W. Szostak,57,Physiology or Medicine
+César Milstein,57,Physiology or Medicine
+Richard R. Ernst,58,Chemistry
+Peter Mitchell,58,Chemistry
+Tim Hunt,58,Physiology or Medicine
+Richard Axel,58,Physiology or Medicine
+C.T.R. Wilson,58,Physics
+Julius Axelrod,58,Physiology or Medicine
+Paul Sabatier,58,Chemistry
+John Cornforth,58,Chemistry
+George de Hevesy,58,Chemistry
+James Rainwater,58,Physics
+Robert C. Richardson,59,Physics
+Ferdinand Braun,59,Physics
+Daniel C. Tsui,59,Physics
+Johannes Fibiger,59,Physiology or Medicine
+Pierre-Gilles de Gennes,59,Physics
+Donna Strickland,59,Physics
+Simon van der Meer,59,Physics
+James B. Sumner,59,Chemistry
+Stanford Moore,59,Chemistry
+Sin-Itiro Tomonaga,59,Physics
+Sir Bernard Katz,59,Physiology or Medicine
+Sir Cyril Hinshelwood,59,Chemistry
+Roger D. Kornberg,59,Chemistry
+Charles Edouard Guillaume,59,Physics
+Max Planck,60,Physics
+Sir John Eccles,60,Physiology or Medicine
+Shuji Nakamura,60,Physics
+Richard R. Schrock,60,Chemistry
+Nikolay Semenov,60,Chemistry
+Richard Zsigmondy,60,Chemistry
+John C. Mather,60,Physics
+Bernardo Houssay,60,Physiology or Medicine
+Baruj Benacerraf,60,Physiology or Medicine
+Jerome I. Friedman,60,Physics
+Giulio Natta,60,Chemistry
+Ilya Prigogine,60,Chemistry
+Arthur L. Schawlow,60,Physics
+Heike Kamerlingh Onnes,60,Physics
+John E. Sulston,60,Physiology or Medicine
+Godfrey N. Hounsfield,60,Physiology or Medicine
+K. Barry Sharpless,60,Chemistry
+K. Alex Müller,60,Physics
+Renato Dulbecco,61,Physiology or Medicine
+Dickinson W. Richards,61,Physiology or Medicine
+André F. Cournand,61,Physiology or Medicine
+Sir Frank Macfarlane Burnet,61,Physiology or Medicine
+Hans Bethe,61,Physics
+Alfred D. Hershey,61,Physiology or Medicine
+Sir Henry Dale,61,Physiology or Medicine
+Sir Robert Robinson,61,Chemistry
+Michael Smith,61,Chemistry
+Martin Chalfie,61,Chemistry
+Richard E. Taylor,61,Physics
+Nicolaas Bloembergen,61,Physics
+Françoise Barré-Sinoussi,61,Physiology or Medicine
+William E. Moerner,61,Chemistry
+Ferenc Krausz,61,Physics
+William H. Stein,61,Chemistry
+Robert Koch,61,Physiology or Medicine
+George F. Smoot,61,Physics
+Elizabeth H. Blackburn,61,Physiology or Medicine
+George Wald,61,Physiology or Medicine
+Eugene Wigner,61,Physics
+Elias James Corey,62,Chemistry
+Charles Nicolle,62,Physiology or Medicine
+Ferid Murad,62,Physiology or Medicine
+Georg von Békésy,62,Physiology or Medicine
+Paul J. Crutzen,62,Chemistry
+Leland Hartwell,62,Physiology or Medicine
+Hannes Alfvén,62,Physics
+William G. Kaelin Jr,62,Physiology or Medicine
+Alphonse Laveran,62,Physiology or Medicine
+Moungi Bawendi,62,Chemistry
+George E. Palade,62,Physiology or Medicine
+Karl Landsteiner,62,Physiology or Medicine
+Lord Rayleigh,62,Physics
+Frances H. Arnold,62,Chemistry
+Robert H. Grubbs,63,Chemistry
+Igor Y. Tamm,63,Physics
+Gabriel Lippmann,63,Physics
+Gregg L. Semenza,63,Physiology or Medicine
+Günter Blobel,63,Physiology or Medicine
+Charles Richet,63,Physiology or Medicine
+Otto Loewi,63,Physiology or Medicine
+David J. Gross,63,Physics
+Robert F. Curl Jr.,63,Chemistry
+Ryoji Noyori,63,Chemistry
+Camillo Golgi,63,Physiology or Medicine
+James E. Rothman,63,Physiology or Medicine
+Bruce Merrifield,63,Chemistry
+Ilya Mechnikov,63,Physiology or Medicine
+Otto Wallach,63,Chemistry
+Walther Bothe,63,Physics
+Kenichi Fukui,63,Chemistry
+Max Delbrück,63,Physiology or Medicine
+Kai M. Siegbahn,63,Physics
+Keffer Hartline,63,Physiology or Medicine
+André Lwoff,63,Physiology or Medicine
+Luis Leloir,64,Chemistry
+Paul J. Flory,64,Chemistry
+Hideki Shirakawa,64,Chemistry
+Edward C. Kendall,64,Physiology or Medicine
+Makoto Kobayashi,64,Physics
+Jean Dausset,64,Physiology or Medicine
+Selman A. Waksman,64,Physiology or Medicine
+Percy W. Bridgman,64,Physics
+Henry W. Kendall,64,Physics
+Alan Heeger,64,Chemistry
+Sir James W. Black,64,Physiology or Medicine
+Arthur Harden,64,Chemistry
+Claude Cohen-Tannoudji,64,Physics
+Willem Einthoven,64,Physiology or Medicine
+Theodor W. Hänsch,64,Physics
+Alfred Kastler,64,Physics
+Sir Alexander Fleming,64,Physiology or Medicine
+Kurt Wüthrich,64,Chemistry
+Randy W. Schekman,64,Physiology or Medicine
+Drew Weissman,64,Physiology or Medicine
+Stanley Cohen,64,Physiology or Medicine
+Anne L’Huillier,65,Physics
+Frits Zernike,65,Physics
+Charles B. Huggins,65,Physiology or Medicine
+David M. Lee,65,Physics
+Otto Hahn,65,Chemistry
+Bernard L. Feringa,65,Chemistry
+Karl Ziegler,65,Chemistry
+Sir Peter J. Ratcliffe,65,Physiology or Medicine
+F. Duncan M. Haldane,65,Physics
+Ulf von Euler,65,Physiology or Medicine
+Lars Onsager,65,Chemistry
+Anthony J. Leggett,65,Physics
+Gerhard Herzberg,66,Chemistry
+Hans Spemann,66,Physiology or Medicine
+David Julius,66,Physiology or Medicine
+Sir Martin J. Evans,66,Physiology or Medicine
+Louis Néel,66,Physics
+Nikolaas Tinbergen,66,Physiology or Medicine
+Sune K. Bergström,66,Physiology or Medicine
+Leon M. Lederman,66,Physics
+Avram Hershko,66,Chemistry
+Michael Levitt,66,Chemistry
+Sir Gregory P. Winter,67,Chemistry
+Svante Pääbo,67,Physiology or Medicine
+Thomas H. Morgan,67,Physiology or Medicine
+Jack Steinberger,67,Physics
+Ragnar Granit,67,Physiology or Medicine
+Jerome Karle,67,Chemistry
+Herbert C. Brown,67,Chemistry
+Hans G. Dehmelt,67,Physics
+George A. Olah,67,Chemistry
+Katalin Karikó,68,Physiology or Medicine
+F. Sherwood Rowland,68,Chemistry
+Donald J. Cram,68,Chemistry
+Serge Haroche,68,Physics
+Roger W. Sperry,68,Physiology or Medicine
+Georges Charpak,68,Physics
+Jaroslav Heyrovsky,68,Chemistry
+Ralph M. Steinman,68,Physiology or Medicine
+Theodor Kocher,68,Physiology or Medicine
+Morten Meldal,68,Chemistry
+Michael W. Young,68,Physiology or Medicine
+Charles M. Rice,68,Physiology or Medicine
+Toshihide Maskawa,68,Physics
+J. Robin Warren,68,Physiology or Medicine
+Reinhard Genzel,68,Physics
+Herbert A. Hauptman,68,Chemistry
+Henry Taube,68,Chemistry
+Sir Frederick Hopkins,68,Physiology or Medicine
+David J. Wineland,68,Physics
+Martin L. Perl,68,Physics
+Walter Hess,68,Physiology or Medicine
+Peter Grünberg,68,Physics
+Martinus J.G. Veltman,68,Physics
+Thomas A. Steitz,69,Chemistry
+Martin Rodbell,69,Physiology or Medicine
+Robert J. Lefkowitz,69,Chemistry
+Albert Fert,69,Physics
+Vladimir Prelog,69,Chemistry
+Rudolph A. Marcus,69,Chemistry
+Aziz Sancar,69,Chemistry
+Paul Modrich,69,Chemistry
+Sir Peter Mansfield,70,Physiology or Medicine
+Dan Shechtman,70,Chemistry
+Ronald G.W. Norrish,70,Chemistry
+Adolf von Baeyer,70,Chemistry
+E. Donnall Thomas,70,Physiology or Medicine
+Ada E. Yonath,70,Chemistry
+Zhores Alferov,70,Physics
+Gertrude B. Elion,70,Physiology or Medicine
+Konrad Lorenz,70,Physiology or Medicine
+Robert S. Mulliken,70,Chemistry
+Mario R. Capecchi,70,Physiology or Medicine
+James P. Allison,70,Physiology or Medicine
+Julius Wagner-Jauregg,70,Physiology or Medicine
+Jules A. Hoffmann,70,Physiology or Medicine
+Joseph Erlanger,70,Physiology or Medicine
+Christiaan Eijkman,71,Physiology or Medicine
+Michael Houghton,71,Physiology or Medicine
+Max Born,71,Physics
+Eric Kandel,71,Physiology or Medicine
+Gerhard Ertl,71,Chemistry
+Dennis Gabor,71,Physics
+Akira Yoshino,71,Chemistry
+Joseph E. Murray,71,Physiology or Medicine
+Yoshinori Ohsumi,71,Physiology or Medicine
+Riccardo Giacconi,71,Physics
+John L. Hall,71,Physics
+Herbert Kroemer,72,Physics
+Hermann Staudinger,72,Chemistry
+Sir Nevill F. Mott,72,Physics
+Jean-Pierre Sauvage,72,Chemistry
+Jeffrey C. Hall,72,Physiology or Medicine
+Harald zur Hausen,72,Physiology or Medicine
+Arthur B. McDonald,72,Physics
+Niels K. Jerne,72,Physiology or Medicine
+Richard Henderson,72,Chemistry
+William A. Fowler,72,Physics
+Odd Hassel,72,Chemistry
+Edmond H. Fischer,72,Physiology or Medicine
+John Pople,73,Chemistry
+Johannes Diderik van der Waals,73,Physics
+Giorgio Parisi,73,Physics
+J. Michael Kosterlitz,73,Physics
+Subrahmanyan Chandrasekhar,73,Physics
+Michael Rosbash,73,Physiology or Medicine
+Arieh Warshel,73,Chemistry
+Alan MacDiarmid,73,Chemistry
+Otto Diels,74,Chemistry
+Paul Greengard,74,Physiology or Medicine
+Norman F. Ramsey,74,Physics
+Sir J. Fraser Stoddart,74,Chemistry
+Edwin G. Krebs,74,Physiology or Medicine
+Gérard Mourou,74,Physics
+Paul C. Lauterbur,74,Physiology or Medicine
+Sydney Brenner,75,Physiology or Medicine
+Jacques Dubochet,75,Chemistry
+Yves Chauvin,75,Chemistry
+Alain Aspect,75,Physics
+Ei-ichi Negishi,75,Chemistry
+Egas Moniz,75,Physiology or Medicine
+Sir Charles Sherrington,75,Physiology or Medicine
+Alexei Abrikosov,75,Physics
+Walter Kohn,75,Chemistry
+John O'Keefe,75,Physiology or Medicine
+Charles K. Kao,76,Physics
+Masatoshi Koshiba,76,Physics
+Luc Montagnier,76,Physiology or Medicine
+Albert Claude,76,Physiology or Medicine
+George D. Snell,76,Physiology or Medicine
+Tasuku Honjo,76,Physiology or Medicine
+Wolfgang Paul,76,Physics
+Bertram N. Brockhouse,76,Physics
+Joachim Frank,77,Chemistry
+M. Stanley Whittingham,77,Chemistry
+Tomas Lindahl,77,Chemistry
+Anton Zeilinger,77,Physics
+Arvid Carlsson,77,Physiology or Medicine
+Frederick Reines,77,Physics
+Kip S. Thorne,77,Physics
+Edward B. Lewis,77,Physiology or Medicine
+George P. Smith,77,Chemistry
+Rita Levi-Montalcini,77,Physiology or Medicine
+Michel Mayor,77,Physics
+Jack Kilby,77,Physics
+Aleksey Yekimov ,78,Chemistry
+Irwin Rose,78,Chemistry
+John H. Van Vleck,78,Physics
+Ernst Ruska,79,Physics
+Richard F. Heck,79,Chemistry
+Sir John B. Gurdon,79,Physiology or Medicine
+George E. Smith,79,Physics
+Paul D. Boyer,79,Chemistry
+Jens C. Skou,79,Chemistry
+Clifford G. Shull,79,Physics
+Roy J. Glauber,80,Physics
+Osamu Shimomura,80,Chemistry
+Satoshi Ōmura,80,Physiology or Medicine
+Louis Brus,80,Chemistry
+Akira Suzuki,80,Chemistry
+John Clauser,80,Physics
+Barry C. Barish,81,Physics
+François Englert,81,Physics
+Barbara McClintock,81,Physiology or Medicine
+Georg Wittig,82,Chemistry
+Robert F. Furchgott,82,Physiology or Medicine
+Pierre Agostini,82,Physics
+Oliver Smithies,82,Physiology or Medicine
+David J. Thouless,82,Physics
+Charles J. Pedersen,83,Chemistry
+Martin Karplus,83,Chemistry
+George H. Hitchings,83,Physiology or Medicine
+Pyotr Kapitsa,84,Physics
+Tu Youyou,84,Physiology or Medicine
+William Knowles,84,Chemistry
+James Peebles,84,Physics
+Peter Higgs,84,Physics
+William C. Campbell,85,Physiology or Medicine
+Robert G. Edwards,85,Physiology or Medicine
+Rainer Weiss,85,Physics
+Harvey J. Alter,85,Physiology or Medicine
+Willard S. Boyle,85,Physics
+Isamu Akasaki,85,Physics
+John B. Fenn,85,Chemistry
+Peyton Rous,87,Physiology or Medicine
+Karl von Frisch,87,Physiology or Medicine
+Yoichiro Nambu,87,Physics
+Vitaly L. Ginzburg,87,Physics
+Raymond Davis Jr.,88,Physics
+Roger Penrose,89,Physics
+Syukuro Manabe,90,Physics
+Klaus Hasselmann,90,Physics
+Arthur Ashkin,96,Physics
+John B. Goodenough,97,Chemistry
