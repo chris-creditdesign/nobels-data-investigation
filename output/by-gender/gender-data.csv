@@ -1,0 +1,643 @@
+,name,gender,award_year,category
+0,Aage N. Bohr,male,1975,Physics
+1,Aaron Ciechanover,male,2004,Chemistry
+2,Aaron Klug,male,1982,Chemistry
+3,Abdus Salam,male,1979,Physics
+4,Ada E. Yonath,female,2009,Chemistry
+5,Adam G. Riess,male,2011,Physics
+6,Adolf Butenandt,male,1939,Chemistry
+7,Adolf von Baeyer,male,1905,Chemistry
+8,Adolf Windaus,male,1928,Chemistry
+9,Ahmed Zewail,male,1999,Chemistry
+10,Akira Suzuki,male,2010,Chemistry
+11,Akira Yoshino,male,2019,Chemistry
+12,Alain Aspect,male,2022,Physics
+13,Alan Heeger,male,2000,Chemistry
+14,Alan Hodgkin,male,1963,Physiology or Medicine
+15,Alan MacDiarmid,male,2000,Chemistry
+16,Albert A. Michelson,male,1907,Physics
+17,Albert Claude,male,1974,Physiology or Medicine
+18,Albert Einstein,male,1921,Physics
+19,Albert Fert,male,2007,Physics
+20,Albert Szent-Györgyi,male,1937,Physiology or Medicine
+21,Albrecht Kossel,male,1910,Physiology or Medicine
+22,Aleksandr M. Prokhorov,male,1964,Physics
+23,Aleksey Yekimov ,male,2023,Chemistry
+24,Alexei Abrikosov,male,2003,Physics
+25,Alexis Carrel,male,1912,Physiology or Medicine
+26,Alfred D. Hershey,male,1969,Physiology or Medicine
+27,Alfred G. Gilman,male,1994,Physiology or Medicine
+28,Alfred Kastler,male,1966,Physics
+29,Alfred Werner,male,1913,Chemistry
+30,Allan M. Cormack,male,1979,Physiology or Medicine
+31,Allvar Gullstrand,male,1911,Physiology or Medicine
+32,Alphonse Laveran,male,1907,Physiology or Medicine
+33,André F. Cournand,male,1956,Physiology or Medicine
+34,Andre Geim,male,2010,Physics
+35,André Lwoff,male,1965,Physiology or Medicine
+36,Andrea Ghez,female,2020,Physics
+37,Andrew Huxley,male,1963,Physiology or Medicine
+38,Andrew V. Schally,male,1977,Physiology or Medicine
+39,Andrew Z. Fire,male,2006,Physiology or Medicine
+40,Anne L’Huillier,female,2023,Physics
+41,Anthony J. Leggett,male,2003,Physics
+42,Anton Zeilinger,male,2022,Physics
+43,Antony Hewish,male,1974,Physics
+44,Archer J.P. Martin,male,1952,Chemistry
+45,Archibald V. Hill,male,1922,Physiology or Medicine
+46,Ardem Patapoutian,male,2021,Physiology or Medicine
+47,Arieh Warshel,male,2013,Chemistry
+48,Arne Tiselius,male,1948,Chemistry
+49,Arno Penzias,male,1978,Physics
+50,Arthur Ashkin,male,2018,Physics
+51,Arthur B. McDonald,male,2015,Physics
+52,Arthur H. Compton,male,1927,Physics
+53,Arthur Harden,male,1929,Chemistry
+54,Arthur Kornberg,male,1959,Physiology or Medicine
+55,Arthur L. Schawlow,male,1981,Physics
+56,Artturi Virtanen,male,1945,Chemistry
+57,Arvid Carlsson,male,2000,Physiology or Medicine
+58,August Krogh,male,1920,Physiology or Medicine
+59,Avram Hershko,male,2004,Chemistry
+60,Aziz Sancar,male,2015,Chemistry
+61,Barbara McClintock,female,1983,Physiology or Medicine
+62,Barry C. Barish,male,2017,Physics
+63,Barry J. Marshall,male,2005,Physiology or Medicine
+64,Baruch S. Blumberg,male,1976,Physiology or Medicine
+65,Baruj Benacerraf,male,1980,Physiology or Medicine
+66,Ben R. Mottelson,male,1975,Physics
+67,Bengt I. Samuelsson,male,1982,Physiology or Medicine
+68,Benjamin List,male,2021,Chemistry
+69,Bernard L. Feringa,male,2016,Chemistry
+70,Bernardo Houssay,male,1947,Physiology or Medicine
+71,Bert Sakmann,male,1991,Physiology or Medicine
+72,Bertram N. Brockhouse,male,1994,Physics
+73,Brian D. Josephson,male,1973,Physics
+74,Brian Kobilka,male,2012,Chemistry
+75,Brian P. Schmidt,male,2011,Physics
+76,Bruce A. Beutler,male,2011,Physiology or Medicine
+77,Bruce Merrifield,male,1984,Chemistry
+78,Burton Richter,male,1976,Physics
+79,C.T.R. Wilson,male,1927,Physics
+80,Camillo Golgi,male,1906,Physiology or Medicine
+81,Carl Bosch,male,1931,Chemistry
+82,Carl Cori,male,1947,Physiology or Medicine
+83,Carl D. Anderson,male,1936,Physics
+84,Carl Wieman,male,2001,Physics
+85,Carlo Rubbia,male,1984,Physics
+86,Carol W. Greider,female,2009,Physiology or Medicine
+87,Carolyn Bertozzi,female,2022,Chemistry
+88,Cecil Powell,male,1950,Physics
+89,César Milstein,male,1984,Physiology or Medicine
+90,Charles B. Huggins,male,1966,Physiology or Medicine
+91,Charles Edouard Guillaume,male,1920,Physics
+92,Charles Glover Barkla,male,1917,Physics
+93,Charles H. Townes,male,1964,Physics
+94,Charles J. Pedersen,male,1987,Chemistry
+95,Charles K. Kao,male,2009,Physics
+96,Charles M. Rice,male,2020,Physiology or Medicine
+97,Charles Nicolle,male,1928,Physiology or Medicine
+98,Charles Richet,male,1913,Physiology or Medicine
+99,Chen Ning Yang,male,1957,Physics
+100,Christiaan Eijkman,male,1929,Physiology or Medicine
+101,Christian Anfinsen,male,1972,Chemistry
+102,Christian de Duve,male,1974,Physiology or Medicine
+103,Christiane Nüsslein-Volhard,female,1995,Physiology or Medicine
+104,Claude Cohen-Tannoudji,male,1997,Physics
+105,Clifford G. Shull,male,1994,Physics
+106,Clinton Davisson,male,1937,Physics
+107,Corneille Heymans,male,1938,Physiology or Medicine
+108,Craig C. Mello,male,2006,Physiology or Medicine
+109,D. Carleton Gajdusek,male,1976,Physiology or Medicine
+110,Dan Shechtman,male,2011,Chemistry
+111,Daniel Bovet,male,1957,Physiology or Medicine
+112,Daniel C. Tsui,male,1998,Physics
+113,Daniel Nathans,male,1978,Physiology or Medicine
+114,David Baltimore,male,1975,Physiology or Medicine
+115,David H. Hubel,male,1981,Physiology or Medicine
+116,David J. Gross,male,2004,Physics
+117,David J. Thouless,male,2016,Physics
+118,David J. Wineland,male,2012,Physics
+119,David Julius,male,2021,Physiology or Medicine
+120,David M. Lee,male,1996,Physics
+121,David W.C. MacMillan,male,2021,Chemistry
+122,Dennis Gabor,male,1971,Physics
+123,Derek Barton,male,1969,Chemistry
+124,Dickinson W. Richards,male,1956,Physiology or Medicine
+125,Didier Queloz,male,2019,Physics
+126,Donald A. Glaser,male,1960,Physics
+127,Donald J. Cram,male,1987,Chemistry
+128,Donna Strickland,female,2018,Physics
+129,Dorothy Crowfoot Hodgkin,female,1964,Chemistry
+130,Douglas D. Osheroff,male,1996,Physics
+131,Drew Weissman,male,2023,Physiology or Medicine
+132,Dudley R. Herschbach,male,1986,Chemistry
+133,E. Donnall Thomas,male,1990,Physiology or Medicine
+134,E. M. Purcell,male,1952,Physics
+135,"Earl W. Sutherland, Jr.",male,1971,Physiology or Medicine
+136,Edgar Adrian,male,1932,Physiology or Medicine
+137,Edmond H. Fischer,male,1992,Physiology or Medicine
+138,Eduard Buchner,male,1907,Chemistry
+139,Edvard I. Moser,male,2014,Physiology or Medicine
+140,Edward A. Doisy,male,1943,Physiology or Medicine
+141,Edward B. Lewis,male,1995,Physiology or Medicine
+142,Edward C. Kendall,male,1950,Physiology or Medicine
+143,Edward Tatum,male,1958,Physiology or Medicine
+144,Edward V. Appleton,male,1947,Physics
+145,Edwin G. Krebs,male,1992,Physiology or Medicine
+146,Edwin M. McMillan,male,1951,Chemistry
+147,Egas Moniz,male,1949,Physiology or Medicine
+148,Ei-ichi Negishi,male,2010,Chemistry
+149,Elias James Corey,male,1990,Chemistry
+150,Elizabeth H. Blackburn,female,2009,Physiology or Medicine
+151,Emil Fischer,male,1902,Chemistry
+152,Emil von Behring,male,1901,Physiology or Medicine
+153,Emilio Segrè,male,1959,Physics
+154,Emmanuelle Charpentier,female,2020,Chemistry
+155,Enrico Fermi,male,1938,Physics
+156,Eric Betzig,male,2014,Chemistry
+157,Eric Cornell,male,2001,Physics
+158,Eric F. Wieschaus,male,1995,Physiology or Medicine
+159,Eric Kandel,male,2000,Physiology or Medicine
+160,Ernest Lawrence,male,1939,Physics
+161,Ernest Rutherford,male,1908,Chemistry
+162,Ernest T.S. Walton,male,1951,Physics
+163,Ernst B. Chain,male,1945,Physiology or Medicine
+164,Ernst Otto Fischer,male,1973,Chemistry
+165,Ernst Ruska,male,1986,Physics
+166,Erwin Neher,male,1991,Physiology or Medicine
+167,Erwin Schrödinger,male,1933,Physics
+168,Eugene Wigner,male,1963,Physics
+169,F. Duncan M. Haldane,male,2016,Physics
+170,F. Sherwood Rowland,male,1995,Chemistry
+171,Felix Bloch,male,1952,Physics
+172,Feodor Lynen,male,1964,Physiology or Medicine
+173,Ferdinand Braun,male,1909,Physics
+174,Ferenc Krausz,male,2023,Physics
+175,Ferid Murad,male,1998,Physiology or Medicine
+176,Frances H. Arnold,female,2018,Chemistry
+177,Francis Crick,male,1962,Physiology or Medicine
+178,Francis W. Aston,male,1922,Chemistry
+179,François Englert,male,2013,Physics
+180,François Jacob,male,1965,Physiology or Medicine
+181,Françoise Barré-Sinoussi,female,2008,Physiology or Medicine
+182,Frank Wilczek,male,2004,Physics
+183,Frédéric Joliot,male,1935,Chemistry
+184,Frederick C. Robbins,male,1954,Physiology or Medicine
+185,Frederick G. Banting,male,1923,Physiology or Medicine
+186,Frederick Reines,male,1995,Physics
+187,Frederick Sanger,male,1958,Chemistry
+188,Frederick Soddy,male,1921,Chemistry
+189,Friedrich Bergius,male,1931,Chemistry
+190,Frits Zernike,male,1953,Physics
+191,Fritz Haber,male,1918,Chemistry
+192,Fritz Lipmann,male,1953,Physiology or Medicine
+193,Fritz Pregl,male,1923,Chemistry
+194,Gabriel Lippmann,male,1908,Physics
+195,Geoffrey Wilkinson,male,1973,Chemistry
+196,Georg von Békésy,male,1961,Physiology or Medicine
+197,Georg Wittig,male,1979,Chemistry
+198,George A. Olah,male,1994,Chemistry
+199,George Beadle,male,1958,Physiology or Medicine
+200,George D. Snell,male,1980,Physiology or Medicine
+201,George de Hevesy,male,1943,Chemistry
+202,George E. Palade,male,1974,Physiology or Medicine
+203,George E. Smith,male,2009,Physics
+204,George F. Smoot,male,2006,Physics
+205,George H. Hitchings,male,1988,Physiology or Medicine
+206,George H. Whipple,male,1934,Physiology or Medicine
+207,George P. Smith,male,2018,Chemistry
+208,George Paget Thomson,male,1937,Physics
+209,George Porter,male,1967,Chemistry
+210,George R. Minot,male,1934,Physiology or Medicine
+211,George Wald,male,1967,Physiology or Medicine
+212,Georges Charpak,male,1992,Physics
+213,Georges J.F. Köhler,male,1984,Physiology or Medicine
+214,Gerald M. Edelman,male,1972,Physiology or Medicine
+215,Gérard Mourou,male,2018,Physics
+216,Gerardus 't Hooft,male,1999,Physics
+217,Gerd Binnig,male,1986,Physics
+218,Gerhard Domagk,male,1939,Physiology or Medicine
+219,Gerhard Ertl,male,2007,Chemistry
+220,Gerhard Herzberg,male,1971,Chemistry
+221,Gertrude B. Elion,female,1988,Physiology or Medicine
+222,Gerty Cori,female,1947,Physiology or Medicine
+223,Giorgio Parisi,male,2021,Physics
+224,Giulio Natta,male,1963,Chemistry
+225,Glenn T. Seaborg,male,1951,Chemistry
+226,Godfrey N. Hounsfield,male,1979,Physiology or Medicine
+227,Gregg L. Semenza,male,2019,Physiology or Medicine
+228,Guglielmo Marconi,male,1909,Physics
+229,Günter Blobel,male,1999,Physiology or Medicine
+230,Gustaf Dalén,male,1912,Physics
+231,Gustav Hertz,male,1925,Physics
+232,H. David Politzer,male,2004,Physics
+233,H. Gobind Khorana,male,1968,Physiology or Medicine
+234,H. Robert Horvitz,male,2002,Physiology or Medicine
+235,Hamilton O. Smith,male,1978,Physiology or Medicine
+236,Hannes Alfvén,male,1970,Physics
+237,Hans Bethe,male,1967,Physics
+238,Hans Fischer,male,1930,Chemistry
+239,Hans G. Dehmelt,male,1989,Physics
+240,Hans Krebs,male,1953,Physiology or Medicine
+241,Hans Spemann,male,1935,Physiology or Medicine
+242,Hans von Euler-Chelpin,male,1929,Chemistry
+243,Harald zur Hausen,male,2008,Physiology or Medicine
+244,Harold C. Urey,male,1934,Chemistry
+245,Harold E. Varmus,male,1989,Physiology or Medicine
+246,Hartmut Michel,male,1988,Chemistry
+247,Harvey J. Alter,male,2020,Physiology or Medicine
+248,Heike Kamerlingh Onnes,male,1913,Physics
+249,Heinrich Rohrer,male,1986,Physics
+250,Heinrich Wieland,male,1927,Chemistry
+251,Hendrik A. Lorentz,male,1902,Physics
+252,Henri Becquerel,male,1903,Physics
+253,Henri Moissan,male,1906,Chemistry
+254,Henrik Dam,male,1943,Physiology or Medicine
+255,Henry Taube,male,1983,Chemistry
+256,Henry W. Kendall,male,1990,Physics
+257,Herbert A. Hauptman,male,1985,Chemistry
+258,Herbert C. Brown,male,1979,Chemistry
+259,Herbert Kroemer,male,2000,Physics
+260,Herbert S. Gasser,male,1944,Physiology or Medicine
+261,Hermann J. Muller,male,1946,Physiology or Medicine
+262,Hermann Staudinger,male,1953,Chemistry
+263,Hideki Shirakawa,male,2000,Chemistry
+264,Hideki Yukawa,male,1949,Physics
+265,Hiroshi Amano,male,2014,Physics
+266,Horst L. Störmer,male,1998,Physics
+267,Howard M. Temin,male,1975,Physiology or Medicine
+268,Hugo Theorell,male,1955,Physiology or Medicine
+269,Igor Y. Tamm,male,1958,Physics
+270,Il´ja M. Frank,male,1958,Physics
+271,Ilya Mechnikov,male,1908,Physiology or Medicine
+272,Ilya Prigogine,male,1977,Chemistry
+273,Irène Joliot-Curie,female,1935,Chemistry
+274,Irving Langmuir,male,1932,Chemistry
+275,Irwin Rose,male,2004,Chemistry
+276,Isamu Akasaki,male,2014,Physics
+277,Isidor Isaac Rabi,male,1944,Physics
+278,Ivan Pavlov,male,1904,Physiology or Medicine
+279,Ivar Giaever,male,1973,Physics
+280,J. Georg Bednorz,male,1987,Physics
+281,J. Hans D. Jensen,male,1963,Physics
+282,J. Michael Bishop,male,1989,Physiology or Medicine
+283,J. Michael Kosterlitz,male,2016,Physics
+284,J. Robin Warren,male,2005,Physiology or Medicine
+285,J.J. Thomson,male,1906,Physics
+286,Jack Kilby,male,2000,Physics
+287,Jack Steinberger,male,1988,Physics
+288,Jack W. Szostak,male,2009,Physiology or Medicine
+289,Jacobus H. van 't Hoff,male,1901,Chemistry
+290,Jacques Dubochet,male,2017,Chemistry
+291,Jacques Monod,male,1965,Physiology or Medicine
+292,James B. Sumner,male,1946,Chemistry
+293,James Chadwick,male,1935,Physics
+294,James Cronin,male,1980,Physics
+295,James E. Rothman,male,2013,Physiology or Medicine
+296,James Franck,male,1925,Physics
+297,James P. Allison,male,2018,Physiology or Medicine
+298,James Peebles,male,2019,Physics
+299,James Rainwater,male,1975,Physics
+300,James Watson,male,1962,Physiology or Medicine
+301,Jaroslav Heyrovsky,male,1959,Chemistry
+302,Jean Baptiste Perrin,male,1926,Physics
+303,Jean Dausset,male,1980,Physiology or Medicine
+304,Jean-Marie Lehn,male,1987,Chemistry
+305,Jean-Pierre Sauvage,male,2016,Chemistry
+306,Jeffrey C. Hall,male,2017,Physiology or Medicine
+307,Jennifer A. Doudna,female,2020,Chemistry
+308,Jens C. Skou,male,1997,Chemistry
+309,Jerome I. Friedman,male,1990,Physics
+310,Jerome Karle,male,1985,Chemistry
+311,Joachim Frank,male,2017,Chemistry
+312,Johann Deisenhofer,male,1988,Chemistry
+313,Johannes Diderik van der Waals,male,1910,Physics
+314,Johannes Fibiger,male,1926,Physiology or Medicine
+315,Johannes Stark,male,1919,Physics
+316,John B. Fenn,male,2002,Chemistry
+317,John B. Goodenough,male,2019,Chemistry
+318,John Bardeen,male,1956,Physics
+319,John C. Kendrew,male,1962,Chemistry
+320,John C. Mather,male,2006,Physics
+321,John C. Polanyi,male,1986,Chemistry
+322,John Clauser,male,2022,Physics
+323,John Cockcroft,male,1951,Physics
+324,John Cornforth,male,1975,Chemistry
+325,John E. Sulston,male,2002,Physiology or Medicine
+326,John E. Walker,male,1997,Chemistry
+327,John F. Enders,male,1954,Physiology or Medicine
+328,John H. Northrop,male,1946,Chemistry
+329,John H. Van Vleck,male,1977,Physics
+330,John L. Hall,male,2005,Physics
+331,John Macleod,male,1923,Physiology or Medicine
+332,John O'Keefe,male,2014,Physiology or Medicine
+333,John Pople,male,1998,Chemistry
+334,John R. Vane,male,1982,Physiology or Medicine
+335,Joseph E. Murray,male,1990,Physiology or Medicine
+336,Joseph Erlanger,male,1944,Physiology or Medicine
+337,Joseph H. Taylor Jr.,male,1993,Physics
+338,Joseph L. Goldstein,male,1985,Physiology or Medicine
+339,Joshua Lederberg,male,1958,Physiology or Medicine
+340,Jules A. Hoffmann,male,2011,Physiology or Medicine
+341,Jules Bordet,male,1919,Physiology or Medicine
+342,Julian Schwinger,male,1965,Physics
+343,Julius Axelrod,male,1970,Physiology or Medicine
+344,Julius Wagner-Jauregg,male,1927,Physiology or Medicine
+345,K. Alex Müller,male,1987,Physics
+346,K. Barry Sharpless,male,2001,Chemistry
+347,Kai M. Siegbahn,male,1981,Physics
+348,Karl Landsteiner,male,1930,Physiology or Medicine
+349,Karl von Frisch,male,1973,Physiology or Medicine
+350,Karl Ziegler,male,1963,Chemistry
+351,Kary B. Mullis,male,1993,Chemistry
+352,Katalin Karikó,female,2023,Physiology or Medicine
+353,Keffer Hartline,male,1967,Physiology or Medicine
+354,Kenichi Fukui,male,1981,Chemistry
+355,Kenneth G. Wilson,male,1982,Physics
+356,Kip S. Thorne,male,2017,Physics
+357,Klaus Hasselmann,male,2021,Physics
+358,Klaus von Klitzing,male,1985,Physics
+359,Koichi Tanaka,male,2002,Chemistry
+360,Konrad Bloch,male,1964,Physiology or Medicine
+361,Konrad Lorenz,male,1973,Physiology or Medicine
+362,Konstantin Novoselov,male,2010,Physics
+363,Kurt Alder,male,1950,Chemistry
+364,Kurt Wüthrich,male,2002,Chemistry
+365,Lars Onsager,male,1968,Chemistry
+366,Lawrence Bragg,male,1915,Physics
+367,Leland Hartwell,male,2001,Physiology or Medicine
+368,Leo Esaki,male,1973,Physics
+369,Leon M. Lederman,male,1988,Physics
+370,Leon N. Cooper,male,1972,Physics
+371,Leopold Ruzicka,male,1939,Chemistry
+372,Lev Landau,male,1962,Physics
+373,Linda B. Buck,female,2004,Physiology or Medicine
+374,Linus Pauling,male,1954,Chemistry
+375,Lord Rayleigh,male,1904,Physics
+376,Lord Todd,male,1957,Chemistry
+377,Louis Brus,male,2023,Chemistry
+378,Louis de Broglie,male,1929,Physics
+379,Louis J. Ignarro,male,1998,Physiology or Medicine
+380,Louis Néel,male,1970,Physics
+381,Luc Montagnier,male,2008,Physiology or Medicine
+382,Luis Alvarez,male,1968,Physics
+383,Luis Leloir,male,1970,Chemistry
+384,M. Stanley Whittingham,male,2019,Chemistry
+385,Makoto Kobayashi,male,2008,Physics
+386,Manfred Eigen,male,1967,Chemistry
+387,Manne Siegbahn,male,1924,Physics
+388,Maria Goeppert Mayer,female,1963,Physics
+389,Marie Curie,female,1903,Physics
+390,Mario J. Molina,male,1995,Chemistry
+391,Mario R. Capecchi,male,2007,Physiology or Medicine
+392,Marshall W. Nirenberg,male,1968,Physiology or Medicine
+393,Martin Chalfie,male,2008,Chemistry
+394,Martin Karplus,male,2013,Chemistry
+395,Martin L. Perl,male,1995,Physics
+396,Martin Rodbell,male,1994,Physiology or Medicine
+397,Martin Ryle,male,1974,Physics
+398,Martinus J.G. Veltman,male,1999,Physics
+399,Masatoshi Koshiba,male,2002,Physics
+400,Maurice Wilkins,male,1962,Physiology or Medicine
+401,Max Born,male,1954,Physics
+402,Max Delbrück,male,1969,Physiology or Medicine
+403,Max F. Perutz,male,1962,Chemistry
+404,Max Planck,male,1918,Physics
+405,Max Theiler,male,1951,Physiology or Medicine
+406,Max von Laue,male,1914,Physics
+407,May-Britt Moser,female,2014,Physiology or Medicine
+408,Melvin Calvin,male,1961,Chemistry
+409,Melvin Schwartz,male,1988,Physics
+410,Michael Houghton,male,2020,Physiology or Medicine
+411,Michael Levitt,male,2013,Chemistry
+412,Michael Rosbash,male,2017,Physiology or Medicine
+413,Michael S. Brown,male,1985,Physiology or Medicine
+414,Michael Smith,male,1993,Chemistry
+415,Michael W. Young,male,2017,Physiology or Medicine
+416,Michel Mayor,male,2019,Physics
+417,Morten Meldal,male,2022,Chemistry
+418,Moungi Bawendi,male,2023,Chemistry
+419,Murray Gell-Mann,male,1969,Physics
+420,Nicolaas Bloembergen,male,1981,Physics
+421,Nicolay G. Basov,male,1964,Physics
+422,Niels Bohr,male,1922,Physics
+423,Niels K. Jerne,male,1984,Physiology or Medicine
+424,Niels Ryberg Finsen,male,1903,Physiology or Medicine
+425,Nikolaas Tinbergen,male,1973,Physiology or Medicine
+426,Nikolay Semenov,male,1956,Chemistry
+427,Norman F. Ramsey,male,1989,Physics
+428,Norman Haworth,male,1937,Chemistry
+429,Odd Hassel,male,1969,Chemistry
+430,Oliver Smithies,male,2007,Physiology or Medicine
+431,Osamu Shimomura,male,2008,Chemistry
+432,Otto Diels,male,1950,Chemistry
+433,Otto Hahn,male,1944,Chemistry
+434,Otto Loewi,male,1936,Physiology or Medicine
+435,Otto Meyerhof,male,1922,Physiology or Medicine
+436,Otto Stern,male,1943,Physics
+437,Otto Wallach,male,1910,Chemistry
+438,Otto Warburg,male,1931,Physiology or Medicine
+439,Owen Chamberlain,male,1959,Physics
+440,Owen Willans Richardson,male,1928,Physics
+441,Patrick M.S. Blackett,male,1948,Physics
+442,Paul A.M. Dirac,male,1933,Physics
+443,Paul Berg,male,1980,Chemistry
+444,Paul C. Lauterbur,male,2003,Physiology or Medicine
+445,Paul D. Boyer,male,1997,Chemistry
+446,Paul Ehrlich,male,1908,Physiology or Medicine
+447,Paul Greengard,male,2000,Physiology or Medicine
+448,Paul J. Crutzen,male,1995,Chemistry
+449,Paul J. Flory,male,1974,Chemistry
+450,Paul Karrer,male,1937,Chemistry
+451,Paul Modrich,male,2015,Chemistry
+452,Paul Müller,male,1948,Physiology or Medicine
+453,Paul Sabatier,male,1912,Chemistry
+454,Pavel A. Cherenkov,male,1958,Physics
+455,Percy W. Bridgman,male,1946,Physics
+456,Peter Agre,male,2003,Chemistry
+457,Peter C. Doherty,male,1996,Physiology or Medicine
+458,Peter Debye,male,1936,Chemistry
+459,Peter Grünberg,male,2007,Physics
+460,Peter Higgs,male,2013,Physics
+461,Peter Medawar,male,1960,Physiology or Medicine
+462,Peter Mitchell,male,1978,Chemistry
+463,Peyton Rous,male,1966,Physiology or Medicine
+464,Philip S. Hench,male,1950,Physiology or Medicine
+465,Philip W. Anderson,male,1977,Physics
+466,Philipp Lenard,male,1905,Physics
+467,Phillip A. Sharp,male,1993,Physiology or Medicine
+468,Pierre Agostini,male,2023,Physics
+469,Pierre Curie,male,1903,Physics
+470,Pierre-Gilles de Gennes,male,1991,Physics
+471,Pieter Zeeman,male,1902,Physics
+472,Polykarp Kusch,male,1955,Physics
+473,Pyotr Kapitsa,male,1978,Physics
+474,Ragnar Granit,male,1967,Physiology or Medicine
+475,Rainer Weiss,male,2017,Physics
+476,Ralph M. Steinman,male,2011,Physiology or Medicine
+477,Randy W. Schekman,male,2013,Physiology or Medicine
+478,Raymond Davis Jr.,male,2002,Physics
+479,Reinhard Genzel,male,2020,Physics
+480,Renato Dulbecco,male,1975,Physiology or Medicine
+481,Riccardo Giacconi,male,2002,Physics
+482,Richard Axel,male,2004,Physiology or Medicine
+483,Richard E. Smalley,male,1996,Chemistry
+484,Richard E. Taylor,male,1990,Physics
+485,Richard F. Heck,male,2010,Chemistry
+486,Richard Henderson,male,2017,Chemistry
+487,Richard J. Roberts,male,1993,Physiology or Medicine
+488,Richard Kuhn,male,1938,Chemistry
+489,Richard L.M. Synge,male,1952,Chemistry
+490,Richard P. Feynman,male,1965,Physics
+491,Richard R. Ernst,male,1991,Chemistry
+492,Richard R. Schrock,male,2005,Chemistry
+493,Richard Willstätter,male,1915,Chemistry
+494,Richard Zsigmondy,male,1925,Chemistry
+495,Rita Levi-Montalcini,female,1986,Physiology or Medicine
+496,Roald Hoffmann,male,1981,Chemistry
+497,Robert A. Millikan,male,1923,Physics
+498,Robert B. Laughlin,male,1998,Physics
+499,Robert B. Woodward,male,1965,Chemistry
+500,Robert Bárány,male,1914,Physiology or Medicine
+501,Robert C. Richardson,male,1996,Physics
+502,Robert F. Curl Jr.,male,1996,Chemistry
+503,Robert F. Furchgott,male,1998,Physiology or Medicine
+504,Robert G. Edwards,male,2010,Physiology or Medicine
+505,Robert H. Grubbs,male,2005,Chemistry
+506,Robert Hofstadter,male,1961,Physics
+507,Robert Huber,male,1988,Chemistry
+508,Robert J. Lefkowitz,male,2012,Chemistry
+509,Robert Koch,male,1905,Physiology or Medicine
+510,Robert S. Mulliken,male,1966,Chemistry
+511,Robert Schrieffer,male,1972,Physics
+512,Robert W. Holley,male,1968,Physiology or Medicine
+513,Robert Woodrow Wilson,male,1978,Physics
+514,Roderick MacKinnon,male,2003,Chemistry
+515,Rodney R. Porter,male,1972,Physiology or Medicine
+516,Roger D. Kornberg,male,2006,Chemistry
+517,Roger Guillemin,male,1977,Physiology or Medicine
+518,Roger Penrose,male,2020,Physics
+519,Roger W. Sperry,male,1981,Physiology or Medicine
+520,Roger Y. Tsien,male,2008,Chemistry
+521,Rolf M. Zinkernagel,male,1996,Physiology or Medicine
+522,Ronald G.W. Norrish,male,1967,Chemistry
+523,Ronald Ross,male,1902,Physiology or Medicine
+524,Rosalyn Yalow,female,1977,Physiology or Medicine
+525,Roy J. Glauber,male,2005,Physics
+526,Rudolf Mössbauer,male,1961,Physics
+527,Rudolph A. Marcus,male,1992,Chemistry
+528,Russell A. Hulse,male,1993,Physics
+529,Ryoji Noyori,male,2001,Chemistry
+530,Salvador E. Luria,male,1969,Physiology or Medicine
+531,Samuel C.C. Ting,male,1976,Physics
+532,Santiago Ramón y Cajal,male,1906,Physiology or Medicine
+533,Satoshi Ōmura,male,2015,Physiology or Medicine
+534,Saul Perlmutter,male,2011,Physics
+535,Selman A. Waksman,male,1952,Physiology or Medicine
+536,Serge Haroche,male,2012,Physics
+537,Severo Ochoa,male,1959,Physiology or Medicine
+538,Sheldon Glashow,male,1979,Physics
+539,Shinya Yamanaka,male,2012,Physiology or Medicine
+540,Shuji Nakamura,male,2014,Physics
+541,Sidney Altman,male,1989,Chemistry
+542,Simon van der Meer,male,1984,Physics
+543,Sin-Itiro Tomonaga,male,1965,Physics
+544,Sir Alexander Fleming,male,1945,Physiology or Medicine
+545,Sir Bernard Katz,male,1970,Physiology or Medicine
+546,Sir Chandrasekhara Venkata Raman,male,1930,Physics
+547,Sir Charles Sherrington,male,1932,Physiology or Medicine
+548,Sir Cyril Hinshelwood,male,1956,Chemistry
+549,Sir Frank Macfarlane Burnet,male,1960,Physiology or Medicine
+550,Sir Frederick Hopkins,male,1929,Physiology or Medicine
+551,Sir Gregory P. Winter,male,2018,Chemistry
+552,Sir Harold Kroto,male,1996,Chemistry
+553,Sir Henry Dale,male,1936,Physiology or Medicine
+554,Sir Howard Florey,male,1945,Physiology or Medicine
+555,Sir J. Fraser Stoddart,male,2016,Chemistry
+556,Sir James W. Black,male,1988,Physiology or Medicine
+557,Sir John B. Gurdon,male,2012,Physiology or Medicine
+558,Sir John Eccles,male,1963,Physiology or Medicine
+559,Sir Martin J. Evans,male,2007,Physiology or Medicine
+560,Sir Nevill F. Mott,male,1977,Physics
+561,Sir Paul Nurse,male,2001,Physiology or Medicine
+562,Sir Peter J. Ratcliffe,male,2019,Physiology or Medicine
+563,Sir Peter Mansfield,male,2003,Physiology or Medicine
+564,Sir Robert Robinson,male,1947,Chemistry
+565,Sir William Ramsay,male,1904,Chemistry
+566,Stanford Moore,male,1972,Chemistry
+567,Stanley B. Prusiner,male,1997,Physiology or Medicine
+568,Stanley Cohen,male,1986,Physiology or Medicine
+569,Stefan W. Hell,male,2014,Chemistry
+570,Steven Chu,male,1997,Physics
+571,Steven Weinberg,male,1979,Physics
+572,Subrahmanyan Chandrasekhar,male,1983,Physics
+573,Sune K. Bergström,male,1982,Physiology or Medicine
+574,Susumu Tonegawa,male,1987,Physiology or Medicine
+575,Svante Arrhenius,male,1903,Chemistry
+576,Svante Pääbo,male,2022,Physiology or Medicine
+577,Sydney Brenner,male,2002,Physiology or Medicine
+578,Syukuro Manabe,male,2021,Physics
+579,Tadeus Reichstein,male,1950,Physiology or Medicine
+580,Takaaki Kajita,male,2015,Physics
+581,Tasuku Honjo,male,2018,Physiology or Medicine
+582,The Svedberg,male,1926,Chemistry
+583,Theodor Kocher,male,1909,Physiology or Medicine
+584,Theodor W. Hänsch,male,2005,Physics
+585,Theodore W. Richards,male,1914,Chemistry
+586,Thomas A. Steitz,male,2009,Chemistry
+587,Thomas C. Südhof,male,2013,Physiology or Medicine
+588,Thomas H. Morgan,male,1933,Physiology or Medicine
+589,Thomas H. Weller,male,1954,Physiology or Medicine
+590,Thomas R. Cech,male,1989,Chemistry
+591,Tim Hunt,male,2001,Physiology or Medicine
+592,Tomas Lindahl,male,2015,Chemistry
+593,Torsten N. Wiesel,male,1981,Physiology or Medicine
+594,Toshihide Maskawa,male,2008,Physics
+595,Tsung-Dao Lee,male,1957,Physics
+596,Tu Youyou,female,2015,Physiology or Medicine
+597,Ulf von Euler,male,1970,Physiology or Medicine
+598,Val Fitch,male,1980,Physics
+599,Venkatraman Ramakrishnan,male,2009,Chemistry
+600,Victor F. Hess,male,1936,Physics
+601,Victor Grignard,male,1912,Chemistry
+602,Vincent du Vigneaud,male,1955,Chemistry
+603,Vitaly L. Ginzburg,male,2003,Physics
+604,Vladimir Prelog,male,1975,Chemistry
+605,Walter Gilbert,male,1980,Chemistry
+606,Walter H. Brattain,male,1956,Physics
+607,Walter Hess,male,1949,Physiology or Medicine
+608,Walter Kohn,male,1998,Chemistry
+609,Walther Bothe,male,1954,Physics
+610,Walther Nernst,male,1920,Chemistry
+611,Wendell M. Stanley,male,1946,Chemistry
+612,Werner Arber,male,1978,Physiology or Medicine
+613,Werner Forssmann,male,1956,Physiology or Medicine
+614,Werner Heisenberg,male,1932,Physics
+615,Wilhelm Conrad Röntgen,male,1901,Physics
+616,Wilhelm Ostwald,male,1909,Chemistry
+617,Wilhelm Wien,male,1911,Physics
+618,Willard F. Libby,male,1960,Chemistry
+619,Willard S. Boyle,male,2009,Physics
+620,Willem Einthoven,male,1924,Physiology or Medicine
+621,William A. Fowler,male,1983,Physics
+622,William B. Shockley,male,1956,Physics
+623,William Bragg,male,1915,Physics
+624,William C. Campbell,male,2015,Physiology or Medicine
+625,William D. Phillips,male,1997,Physics
+626,William E. Moerner,male,2014,Chemistry
+627,William F. Giauque,male,1949,Chemistry
+628,William G. Kaelin Jr,male,2019,Physiology or Medicine
+629,William H. Stein,male,1972,Chemistry
+630,William Knowles,male,2001,Chemistry
+631,William Lipscomb,male,1976,Chemistry
+632,William P. Murphy,male,1934,Physiology or Medicine
+633,Willis E. Lamb,male,1955,Physics
+634,Wolfgang Ketterle,male,2001,Physics
+635,Wolfgang Paul,male,1989,Physics
+636,Wolfgang Pauli,male,1945,Physics
+637,Yoichiro Nambu,male,2008,Physics
+638,Yoshinori Ohsumi,male,2016,Physiology or Medicine
+639,Yuan T. Lee,male,1986,Chemistry
+640,Yves Chauvin,male,2005,Chemistry
+641,Zhores Alferov,male,2000,Physics
