@@ -23,7 +23,7 @@ def download_complete_dataset():
             break
         offset += limit
 
-    with open("data/laureates.json", "w") as file:
+    with open("data/laureates-2024.json", "w") as file:
         json.dump(all_nobel_laureates, file, indent=4)
 
 if __name__ == "__main__":
